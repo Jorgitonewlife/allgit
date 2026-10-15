@@ -1,0 +1,2448 @@
+{
+  "stats": {
+    "total_bookmarks": 226,
+    "total_folders": 3,
+    "total_domains": 152,
+    "top_domains": [
+      [
+        "www.escolavirtual.gov.br",
+        22
+      ],
+      [
+        "github.com",
+        10
+      ],
+      [
+        "cate.prefeitura.sp.gov.br",
+        7
+      ],
+      [
+        "www.youtube.com",
+        5
+      ],
+      [
+        "redecanais.africa",
+        5
+      ],
+      [
+        "drivedepobre.com",
+        4
+      ],
+      [
+        "www.saldaodainformatica.com.br",
+        3
+      ],
+      [
+        "www.euexplico.pt",
+        3
+      ],
+      [
+        "steamunlocked.org",
+        3
+      ],
+      [
+        "oldservers.com.ar",
+        2
+      ]
+    ],
+    "root_folders": {
+      "bookmark_bar": 140,
+      "other": 86,
+      "synced": 0
+    },
+    "oldest_bookmark": "2024-06-27T00:08:16.077652",
+    "newest_bookmark": "2026-10-10T10:10:40.905962"
+  },
+  "by_domain": {
+    "www.escolavirtual.gov.br": [
+      "https://www.escolavirtual.gov.br/",
+      "https://www.escolavirtual.gov.br/catalogo",
+      "https://www.escolavirtual.gov.br/programa/370",
+      "https://www.escolavirtual.gov.br/programa/367",
+      "https://www.escolavirtual.gov.br/programa/365",
+      "https://www.escolavirtual.gov.br/programa/313",
+      "https://www.escolavirtual.gov.br/notificacoes/2",
+      "https://www.escolavirtual.gov.br/programa/google/2",
+      "https://www.escolavirtual.gov.br/catalogo?query=&carga_horaria=&temas%5B%5D=57",
+      "https://www.escolavirtual.gov.br/curso/1544",
+      "https://www.escolavirtual.gov.br/curso/1450",
+      "https://www.escolavirtual.gov.br/curso/1449",
+      "https://www.escolavirtual.gov.br/curso/1447",
+      "https://www.escolavirtual.gov.br/curso/1446",
+      "https://www.escolavirtual.gov.br/curso/1442",
+      "https://www.escolavirtual.gov.br/curso/1439",
+      "https://www.escolavirtual.gov.br/curso/1432",
+      "https://www.escolavirtual.gov.br/curso/1437",
+      "https://www.escolavirtual.gov.br/curso/1422",
+      "https://www.escolavirtual.gov.br/curso/1374",
+      "https://www.escolavirtual.gov.br/curso/1376",
+      "https://www.escolavirtual.gov.br/curso/1375"
+    ],
+    "github.com": [
+      "https://github.com/massgravel/Microsoft-Activation-Scripts",
+      "https://github.com/felipeorlando/aprenda-rubyonrails/blob/master/README.md",
+      "https://github.com/freeCodeCamp/freeCodeCamp",
+      "https://github.com/agenda-tech-brasil/agenda-tech-brasil",
+      "https://github.com/topics/project-based-learning",
+      "https://github.com/practical-tutorials/project-based-learning",
+      "https://github.com/topics/project-based-learning?l=dart%2F1000&o=desc&s=updated",
+      "https://github.com/huscarldev/clowclow",
+      "https://github.com/topics/claude-skills",
+      "https://github.com/ChrisTitusTech/winutil"
+    ],
+    "cate.prefeitura.sp.gov.br": [
+      "https://cate.prefeitura.sp.gov.br/cursos/tecnologia/curso-bando-de-dados-relacional/",
+      "https://cate.prefeitura.sp.gov.br/cursos/tecnologia/o-que-e-a-nuvem-aws/",
+      "https://cate.prefeitura.sp.gov.br/cursos/tecnologia/cursos-de-desenvolvimento-de-sites-softwares-e-jogos-no-projeto-digital-ods/",
+      "https://cate.prefeitura.sp.gov.br/cursos/tecnologia/logica-de-programacao-front-end-e-back-end-conheca-os-novos-cursos-de-tecnologia/",
+      "https://cate.prefeitura.sp.gov.br/cursos/tecnologia/trilhas-de-capacitacao-digital-microsoft/",
+      "https://cate.prefeitura.sp.gov.br/cursos/tecnologia/curso-fundamentos-de-ia-no-azure/",
+      "https://cate.prefeitura.sp.gov.br/cursos/tecnologia/curso-bootcamp-ia-generativa-da-aws/"
+    ],
+    "www.youtube.com": [
+      "https://www.youtube.com/watch?v=UlvSAb5d-mM",
+      "https://www.youtube.com/watch?v=XCFUGXBfi9M",
+      "https://www.youtube.com/watch?v=_fO-JiH8gb0",
+      "https://www.youtube.com/watch?v=DbiZu7EL0ME",
+      "https://www.youtube.com/watch?v=At0_UzDoiyA"
+    ],
+    "redecanais.africa": [
+      "https://redecanais.africa/dexter-sangue-novo-dublado-legendado-lista-de-episodios_90a1c5d03.html",
+      "https://redecanais.africa/lie-to-me-dublado-legendado-lista-de-episodios_045b316e8.html",
+      "https://redecanais.africa/hannibal-dublado-legendado-lista-de-episodios_2ddccc5a5.html",
+      "https://redecanais.africa/arquivo-x-the-x-files-dublado-lista-de-episodios_a8cc99ff6.html",
+      "https://redecanais.africa/sherlock-dublado-lista-completa-de-episodios_e01755e88.html"
+    ],
+    "drivedepobre.com": [
+      "https://drivedepobre.com/tecnologia-e-programacao/6o6tb4FJ4Aoc",
+      "https://drivedepobre.com/tecnologia-e-programacao/hoYQgFTA5OZI",
+      "https://drivedepobre.com/tecnologia-e-programacao/TFkyOpbZrTch",
+      "https://drivedepobre.com/tecnologia-e-programacao/EFVQPL252-8F"
+    ],
+    "www.saldaodainformatica.com.br": [
+      "https://www.saldaodainformatica.com.br/notebook/notebook-acer-nitro-v15-anv15-51-57ws-intel-core-i5-13420h-ram-8gb-ssd-512gb-rtx-3050-156-linux#/26-tipo-recertificado/31-medalha-bronze",
+      "https://www.saldaodainformatica.com.br/notebook/notebook-lenovo-thinkpad-l13-gen1-20r4002ubr-intel-core-i7-10510u-ram-16gb-ssd-256gb-tela-133-fhd-windows-10",
+      "https://www.saldaodainformatica.com.br/notebook/notebook-acer-nitro-5-an515-57-52zq-intel-core-i5-11400h-ram-8gb-ssd-512gb-gtx-1650-156-linux"
+    ],
+    "www.euexplico.pt": [
+      "https://www.euexplico.pt/search/label/Intelig%C3%AAncia%20Artificial",
+      "https://www.euexplico.pt/search/label/Python",
+      "https://www.euexplico.pt/search/label/Arquitetura%20de%20Computadores"
+    ],
+    "steamunlocked.org": [
+      "https://steamunlocked.org/cinderia-free-download/",
+      "https://steamunlocked.org/slay-the-spire-2-free-download/",
+      "https://steamunlocked.org/hytale-free-download/"
+    ],
+    "oldservers.com.ar": [
+      "https://oldservers.com.ar/index.php#galeria",
+      "https://oldservers.com.ar/"
+    ],
+    "www.microsoft.com": [
+      "https://www.microsoft.com/pt-br/conecta/",
+      "https://www.microsoft.com/en-us/insidetrack/careers?msockid=0d01224bcce06788037e353fcd02669a"
+    ],
+    "www.cps.sp.gov.br": [
+      "https://www.cps.sp.gov.br/",
+      "https://www.cps.sp.gov.br/etec/"
+    ],
+    "gogunlocked.com": [
+      "https://gogunlocked.com/populous-the-beginning-free-download/",
+      "https://gogunlocked.com/1-contra-anniversary-collection-free-download/"
+    ],
+    "dev.to": [
+      "https://dev.to/theodinproject/why-learning-to-code-is-so-damn-hard-11nn",
+      "https://dev.to/"
+    ],
+    "replit.com": [
+      "https://replit.com/",
+      "https://replit.com/~"
+    ],
+    "www.ted.com": [
+      "https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve",
+      "https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance"
+    ],
+    "codepen.io": [
+      "https://codepen.io/",
+      "https://codepen.io/trending"
+    ],
+    "web.archive.org": [
+      "https://web.archive.org/web/20250918082145/https://old.codinginflow.com/google-programming-questions",
+      "https://web.archive.org/"
+    ],
+    "stackoverflow.com": [
+      "https://stackoverflow.com/questions",
+      "https://stackoverflow.com/ai-assist/chat/487ba0e2-b65b-4053-a8ed-808afb5292e2"
+    ],
+    "support.microsoft.com": [
+      "https://support.microsoft.com/en-gb/windows/manage-photos-and-videos-with-microsoft-photos-app-c0c6422f-d4cb-2e3d-eb65-7069071b2f9b",
+      "https://support.microsoft.com/pt-br/home/livechatwidget?oc.reconnectid=e890d5a8-f924-4d00-a1d1-2b38f0ccb1ba&customcontext=%7B%22CaseNumber%22%3A%227104673389%22%7D&x-ems-sessionid=0e5f2742-e8a2-e9f2-8cd4-33d7f5ab884a&ocid=OO_Core_NEU_GetHelp_DG_GetHelp_Solutions"
+    ],
+    "filezilla-project.org": [
+      "https://filezilla-project.org/download.php?type=client",
+      "https://filezilla-project.org/"
+    ],
+    "opensource.com": [
+      "https://opensource.com/",
+      "https://opensource.com/article/23/4/basic-vs-fortran-77"
+    ],
+    "claude.ai": [
+      "https://claude.ai/new",
+      "https://claude.ai/onboarding"
+    ],
+    "www.formacaomercadologica.com.br": [
+      "https://www.formacaomercadologica.com.br/treinamento/default.asp",
+      "https://www.formacaomercadologica.com.br/treinamento/candidato.asp"
+    ],
+    "mooc41.escolavirtual.gov.br": [
+      "https://mooc41.escolavirtual.gov.br/course/view.php?id=28480#section-0",
+      "https://mooc41.escolavirtual.gov.br/mod/page/view.php?id=452786"
+    ],
+    "redecanais.dev": [
+      "https://redecanais.dev/lista-negra-the-blacklist-dublado-legendado-lista-de-episodios_30b16f302.html",
+      "https://redecanais.dev/gravity-falls-um-verao-de-misterios-dublado-lista-de-episodios_dcbcc7a02.html"
+    ],
+    "www.aiprm.com": [
+      "https://www.aiprm.com/pt-br/prompts/",
+      "https://www.aiprm.com/pt-br/prompts/applications/"
+    ],
+    "openrouter.ai": [
+      "https://openrouter.ai/sign-in?redirect_url=https%3A%2F%2Fopenrouter.ai%2Fworkspaces%2Fdefault%2Fkeys",
+      "https://openrouter.ai/workspaces/default/keys"
+    ],
+    "dbeaver.com": [
+      "https://dbeaver.com/docs/dbeaver/#where-to-start",
+      "https://dbeaver.com/docs/dbeaver/Getting-started/#introduction"
+    ],
+    "chatgpt.com": [
+      "https://chatgpt.com/c/69e8d029-c7ec-83e9-ad08-065632f8e3d1",
+      "https://chatgpt.com/"
+    ],
+    "centralfieldservice.com.br": [
+      "https://centralfieldservice.com.br/"
+    ],
+    "www.theodinproject.com": [
+      "https://www.theodinproject.com/paths/foundations/courses/foundations"
+    ],
+    "roadmap.sh": [
+      "https://roadmap.sh/projects/task-tracker"
+    ],
+    "www.amazon.com.br": [
+      "https://www.amazon.com.br/notebook-recondicionado/s?k=notebook+recondicionado"
+    ],
+    "ifrs.edu.br": [
+      "https://ifrs.edu.br/"
+    ],
+    "cfc.org.br": [
+      "https://cfc.org.br/"
+    ],
+    "www.ey.com": [
+      "https://www.ey.com/pt_br"
+    ],
+    "sebrae.com.br": [
+      "https://sebrae.com.br/"
+    ],
+    "educacao-executiva.fgv.br": [
+      "https://educacao-executiva.fgv.br/cursos/online"
+    ],
+    "fipecafi.org": [
+      "https://fipecafi.org/"
+    ],
+    "www.ev.org.br": [
+      "https://www.ev.org.br/"
+    ],
+    "www.google.com": [
+      "https://www.google.com/search?q=Paula+Souza&sca_esv=dedd7ca837f28e21&rlz=1C1HKFL_pt-PTBR1213BR1213&sxsrf=ANbL-n4YHoaaPjcx8z0HtvDs4iGAgeWxug%3A1778273342720&ei=Pkz-ab3GK-LL1sQPyJfh2QM&biw=1366&bih=599&ved=2ahUKEwjK8fq_yKqUAxUCrJUCHfZ_ML8QgK4QegQIBBAD&uact=5&oq=ifrs+institute+semelhantes&gs_lp=Egxnd3Mtd2l6LXNlcnAiGmlmcnMgaW5zdGl0dXRlIHNlbWVsaGFudGVzMgcQIRgKGKABMgcQIRgKGKABSNknUJQVWMEmcAJ4AZABAJgBmQGgAfULqgEEMC4xMrgBA8gBAPgBAZgCDqACvwzCAgoQABhHGNYEGLADwgIGEAAYFhgewgILEAAYgAQYigUYhgPCAgUQABjvBcICCBAAGBYYHhgKwgIIEAAYgAQYogTCAgUQIRigAcICBRAhGJ8FmAMAiAYBkAYIkgcEMi4xMqAH5iiyBwQwLjEyuAemDMIHBzEuNy40LjLIBy-ACAE&sclient=gws-wiz-serp&mstk=AUtExfAroC5yA6-AgBtf0XaLBnf5GAwJLQu9a4jp_3UDOnV7RYXfonxS2rtGTQenOFeZoAFCXhOw_V7jai9IBmpyTzrsrJVZIYh2u8wDb4MFjcl5axa-e4BcqpVdxvkSSl4vmqYMdQFV48XCHkARNvlonHnpVd6Oodfs9fSYmt7lF3lrb0I-WC1a06m57GAmCW3TvL5oTFJkJwPjDsUQHWi5OFT_LLDJ_La8-j7raLODAmPAXIDAcUXFZSsSNaan6lVeGyTLtQA87dUse8WDhW1ed2JT&csui=3"
+    ],
+    "teamtreehouse.com": [
+      "https://teamtreehouse.com/"
+    ],
+    "www.udacity.com": [
+      "https://www.udacity.com/blog/front-end-vs-back-end-vs-full-stack-web-developers/"
+    ],
+    "bullettrain.co": [
+      "https://bullettrain.co/"
+    ],
+    "railsbytes.com": [
+      "https://railsbytes.com/"
+    ],
+    "gorails.com": [
+      "https://gorails.com/"
+    ],
+    "fullstackvideos.com": [
+      "https://fullstackvideos.com/"
+    ],
+    "www.chegg.com": [
+      "https://www.chegg.com/skills/our-programs/intro-cybersecurity/"
+    ],
+    "www.codigoaberto.net": [
+      "https://www.codigoaberto.net/post/pix-social"
+    ],
+    "poorvucenter.yale.edu": [
+      "https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth"
+    ],
+    "cloud.google.com": [
+      "https://cloud.google.com/use-cases/free-ai-tools?hl=pt-BR"
+    ],
+    "cbea.ms": [
+      "https://cbea.ms/git-commit/"
+    ],
+    "dontasktoask.com": [
+      "https://dontasktoask.com/"
+    ],
+    "medium.com": [
+      "https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603"
+    ],
+    "www.khanacademy.org": [
+      "https://www.khanacademy.org/college-careers-more/talks-and-interviews/talks-and-interviews-unit/conversations-with-sal/a/the-learning-myth-why-ill-never-tell-my-son-hes-smart"
+    ],
+    "napratica.org.br": [
+      "https://napratica.org.br/noticias/aprenda-rapido-com-tecnica-feynman"
+    ],
+    "grok.com": [
+      "https://grok.com/c/0a52bbee-f0b8-4583-b4ce-24c0a66e5a92?rid=dbaa1eb1-ef58-4478-8f80-bf19f472040c"
+    ],
+    "miscellaneous-c.blogspot.com": [
+      "https://miscellaneous-c.blogspot.com/2022/04/download-gta-san-andreas-pc-10-us-full.html"
+    ],
+    "upnovelas.com": [
+      "https://upnovelas.com/terra-nostra/"
+    ],
+    "tinypng.com": [
+      "https://tinypng.com/"
+    ],
+    "support.apple.com": [
+      "https://support.apple.com/en-gb/guide/preview/welcome/mac"
+    ],
+    "www.gimp.org": [
+      "https://www.gimp.org/"
+    ],
+    "www.adobe.com": [
+      "https://www.adobe.com/express/"
+    ],
+    "auth.services.adobe.com": [
+      "https://auth.services.adobe.com/en_US/index.html?callback=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fadobeid%2FAdobeExpressWeb%2FAdobeID%2Ftoken%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.adobe.com%2523old_hash%253D%2526from_ims%253Dtrue%253Fclient_id%253DAdobeExpressWeb%2526api%253Dauthorize%2526scope%253DAdobeID%252Copenid%252Cgnav%252Cpps.read%252Cfirefly_api%252Cadditional_info.roles%252Cread_organizations%252Caccount_cluster.read%26state%3D%257B%2522jslibver%2522%253A%2522v2-v0.55.0-1-g6de2b7c%2522%252C%2522nonce%2522%253A%25226757113921751724%2522%257D%26code_challenge_method%3Dplain%26use_ms_for_expiry%3Dtrue&client_id=AdobeExpressWeb&scope=AdobeID%2Copenid%2Cgnav%2Cpps.read%2Cfirefly_api%2Cadditional_info.roles%2Cread_organizations%2Caccount_cluster.read&state=%7B%22jslibver%22%3A%22v2-v0.55.0-1-g6de2b7c%22%2C%22nonce%22%3A%226757113921751724%22%7D&relay=eb66d764-ff1b-41ae-8fa0-299fb5a32026&locale=en_US&flow_type=token&idp_flow_type=login&s_p=google%2Cfacebook%2Capple%2Cmicrosoft%2Cline%2Ckakao&response_type=token&code_challenge_method=plain&redirect_uri=https%3A%2F%2Fwww.adobe.com%23old_hash%3D%26from_ims%3Dtrue%3Fclient_id%3DAdobeExpressWeb%26api%3Dauthorize%26scope%3DAdobeID%2Copenid%2Cgnav%2Cpps.read%2Cfirefly_api%2Cadditional_info.roles%2Cread_organizations%2Caccount_cluster.read&use_ms_for_expiry=true#/"
+    ],
+    "gitlab.com": [
+      "https://gitlab.com/mj-group7725222/MJ-project/-/get_started"
+    ],
+    "docs.github.com": [
+      "https://docs.github.com/pt/pages"
+    ],
+    "www.netlify.com": [
+      "https://www.netlify.com/"
+    ],
+    "jsfiddle.net": [
+      "https://jsfiddle.net/"
+    ],
+    "rsync.samba.org": [
+      "https://rsync.samba.org/"
+    ],
+    "marketingplatform.google.com": [
+      "https://marketingplatform.google.com/about/analytics/"
+    ],
+    "www.openwebanalytics.com": [
+      "https://www.openwebanalytics.com/"
+    ],
+    "matomo.org": [
+      "https://matomo.org/"
+    ],
+    "leetcode.com": [
+      "https://leetcode.com/"
+    ],
+    "ocw.mit.edu": [
+      "https://ocw.mit.edu/search/"
+    ],
+    "pll.harvard.edu": [
+      "https://pll.harvard.edu/catalog/free"
+    ],
+    "online.stanford.edu": [
+      "https://online.stanford.edu/free-courses"
+    ],
+    "www.pace.cam.ac.uk": [
+      "https://www.pace.cam.ac.uk/course-type/short-online-courses"
+    ],
+    "portal.offsec.com": [
+      "https://portal.offsec.com/explore/all-content?mySubscriptionsFlag=false&sortBy=createdAt:desc"
+    ],
+    "www.linuxvmimages.com": [
+      "https://www.linuxvmimages.com/images/kalilinux/"
+    ],
+    "www.chinitarte.net": [
+      "https://www.chinitarte.net/Livros.html"
+    ],
+    "www.ibm.com": [
+      "https://www.ibm.com/br-pt/think/topics/aiops"
+    ],
+    "museprintables.com": [
+      "https://museprintables.com/c/how-to-draw/page/7/"
+    ],
+    "apply.careers.microsoft.com": [
+      "https://apply.careers.microsoft.com/candidate/login"
+    ],
+    "learn.microsoft.com": [
+      "https://learn.microsoft.com/en-us/training/career-paths/"
+    ],
+    "www.osboxes.org": [
+      "https://www.osboxes.org/screenshots/"
+    ],
+    "www.jobbol.com.br": [
+      "https://www.jobbol.com.br/home-office/sao-paulo-sp"
+    ],
+    "pt.ifixit.com": [
+      "https://pt.ifixit.com/"
+    ],
+    "chat.qwen.ai": [
+      "https://chat.qwen.ai/"
+    ],
+    "jorgitolifenew-104107.postman.co": [
+      "https://jorgitolifenew-104107.postman.co/workspace/ab228d59-3c6f-44de-82e1-7c2f7e0e0a16/request/58039049-4c07b328-7eba-4f25-a2cf-db80a8456965?sideView=agentMode"
+    ],
+    "stoplight.io": [
+      "https://stoplight.io/"
+    ],
+    "www.postman.com": [
+      "https://www.postman.com/api-first/"
+    ],
+    "www.gametracker.com": [
+      "https://www.gametracker.com/games/"
+    ],
+    "www.filmesrave.online": [
+      "https://www.filmesrave.online/"
+    ],
+    "www.empregos.com.br": [
+      "https://www.empregos.com.br/vagas"
+    ],
+    "www.adzuna.com.br": [
+      "https://www.adzuna.com.br/search?remote_only=1"
+    ],
+    "uncensored.ai": [
+      "https://uncensored.ai/"
+    ],
+    "visualgo.net": [
+      "https://visualgo.net/en"
+    ],
+    "thinkygames.com": [
+      "https://thinkygames.com/games/"
+    ],
+    "www.cedac.com.br": [
+      "https://www.cedac.com.br/"
+    ],
+    "www.sp.senai.br": [
+      "https://www.sp.senai.br/unidade/online/"
+    ],
+    "www.deeplearning.ai": [
+      "https://www.deeplearning.ai/courses"
+    ],
+    "academy.claude.com": [
+      "https://academy.claude.com/"
+    ],
+    "huggingface.co": [
+      "https://huggingface.co/spaces"
+    ],
+    "www.fast.ai": [
+      "https://www.fast.ai/"
+    ],
+    "ankiweb.net": [
+      "https://ankiweb.net/decks"
+    ],
+    "n8n.io": [
+      "https://n8n.io/workflows/categories/it-ops/?utm_source=n8n_app&utm_medium=template_library&utm_instance=https://masterjorge.app.n8n.cloud/&utm_n8n_version=2.42.0&utm_awc=0&utm_user_role=Support&utm_instance_features=assistant"
+    ],
+    "drawsql.app": [
+      "https://drawsql.app/"
+    ],
+    "mystery.knightlab.com": [
+      "https://mystery.knightlab.com/"
+    ],
+    "sqlbolt.com": [
+      "https://sqlbolt.com/"
+    ],
+    "coddy.tech": [
+      "https://coddy.tech/"
+    ],
+    "blog.codepen.io": [
+      "https://blog.codepen.io/docs/pens/files/"
+    ],
+    "developer.mozilla.org": [
+      "https://developer.mozilla.org/pt-BR/docs/Learn_web_development?utm_source=chatgpt.com"
+    ],
+    "cs50.harvard.edu": [
+      "https://cs50.harvard.edu/x/?utm_source=chatgpt.com"
+    ],
+    "scrimba.com": [
+      "https://scrimba.com/backend-path-c0tbi0l98f"
+    ],
+    "goodfirstissue.dev": [
+      "https://goodfirstissue.dev/"
+    ],
+    "free-for.dev": [
+      "https://free-for.dev/"
+    ],
+    "www.omniroute.online": [
+      "https://www.omniroute.online/pt-BR/"
+    ],
+    "animefire.plus": [
+      "https://animefire.plus/animes/one-piece-dublado/255"
+    ],
+    "www.vibecodeapp.com": [
+      "https://www.vibecodeapp.com/"
+    ],
+    "lovable.dev": [
+      "https://lovable.dev/getting-started?redirect=%2Fdashboard"
+    ],
+    "chorume.club": [
+      "https://chorume.club/livros/"
+    ],
+    "dfolloni.substack.com": [
+      "https://dfolloni.substack.com/"
+    ],
+    "large-amber-34e.notion.site": [
+      "https://large-amber-34e.notion.site/PROMPTS-LANDINGPAGE-CLAUDE-CODE-FRANKLIM-GUI-314a3662d4618088b79be80041f6c393"
+    ],
+    "gist.github.com": [
+      "https://gist.github.com/nborwankar/31865ad2dfc217c742ad62fc8c59918f"
+    ],
+    "dribbble.com": [
+      "https://dribbble.com/"
+    ],
+    "zeev.it": [
+      "https://zeev.it/blog/prompts-de-ia/"
+    ],
+    "supermemo.guru": [
+      "https://supermemo.guru/wiki/Algorithm_SM-18"
+    ],
+    "onecompiler.com": [
+      "https://onecompiler.com/courses/c/introduction-to-c"
+    ],
+    "www.moddb.com": [
+      "https://www.moddb.com/downloads/metal-slug-collection-1234567-x-pc"
+    ],
+    "steamdb.info": [
+      "https://steamdb.info/tech/Engine/MonoGame/"
+    ],
+    "www.reddit.com": [
+      "https://www.reddit.com/r/Argaming/comments/1k69bqw/mi_gu%C3%ADa_definitiva_de_optimizaci%C3%B3n_para_windows/?tl=pt-br"
+    ],
+    "embraer.gupy.io": [
+      "https://embraer.gupy.io/jobs/10265677?jobBoardSource=gupy_public_page"
+    ],
+    "expressjs.com": [
+      "https://expressjs.com/"
+    ],
+    "colab.research.google.com": [
+      "https://colab.research.google.com/drive/12OzJ3J1MXhGDqSjoUXKFnGiW7sKWgR81#scrollTo=DbuQmoBjeNk5"
+    ],
+    "www.kaggle.com": [
+      "https://www.kaggle.com/"
+    ],
+    "gemini.google.com": [
+      "https://gemini.google.com/app/f02dcb8bbe60b415"
+    ],
+    "stax.withgoogle.com": [
+      "https://stax.withgoogle.com/projects"
+    ],
+    "avancatech-prefeiturasp.itinovacao.org.br": [
+      "https://avancatech-prefeiturasp.itinovacao.org.br/cursos/"
+    ],
+    "codefinity.com": [
+      "https://codefinity.com/get-started/spa/v8_new_brl?utm_source=google&utm_medium=cpc&utm_campaign=21415070126&utm_content=162332657925&utm_term=freecodecamp&dki=Freecodecamp&ad_id=720198247386&gad_source=1&gad_campaignid=21415070126&gbraid=0AAAAABTeUgSPgh2mHT6WjdjX-l2rJFdC9&gclid=Cj0KCQjwkrzPBhCqARIsAJN460n482q0gdlTsAjG29DtOUpp-U1DSgdb3xd1pToOgiBHDP5B3ngslNYaAupTEALw_wcB"
+    ],
+    "survey.mercadolibre.com": [
+      "https://survey.mercadolibre.com/jfe/form/SV_eVeWF6EiFnS3Zki?gad_source=1&gad_campaignid=23468139077&gbraid=0AAAABBIc6ppOsqevou51koMXuY9puGBvq&gclid=Cj0KCQjw2MbPBhCSARIsAP3jP9wmanrOQEnaoyQglq3ZNnkyRKR37Sihyc65pc8sfhpEwjYW-ZJZS0AaAk2WEALw_wcB"
+    ],
+    "remotar.com.br": [
+      "https://remotar.com.br/"
+    ],
+    "trampos.co": [
+      "https://trampos.co/candidato#/vagas"
+    ],
+    "ead.estudar.org.br": [
+      "https://ead.estudar.org.br/c/cc50-o-curso-de-ciencia-da-computacao-de-harvard-no-brasil/sections/196909/lessons/733389"
+    ],
+    "www.coursebox.ai": [
+      "https://www.coursebox.ai/pt"
+    ],
+    "www.iseazy.com": [
+      "https://www.iseazy.com/br/author/funcionalidades/criacao-de-curso-ia/"
+    ],
+    "genially.com": [
+      "https://genially.com/pt-br/criar/cursos-on-line/"
+    ],
+    "www.easygenerator.com": [
+      "https://www.easygenerator.com/br/funcionalidades/easyai/"
+    ],
+    "eforce.mobi": [
+      "https://eforce.mobi/"
+    ],
+    "onlinecursosgratuitos.com.br": [
+      "https://onlinecursosgratuitos.com.br/login/cadastro"
+    ],
+    "digital.sestsenat.org.br": [
+      "https://digital.sestsenat.org.br/blog/curso-veiculos-eletricos-hibridos"
+    ],
+    "knime.learnupon.com": [
+      "https://knime.learnupon.com/catalog?src=knimeappmodernui&srcStartups=2-4"
+    ]
+  },
+  "by_folder": {
+    "bookmark_bar": [
+      "https://centralfieldservice.com.br/",
+      "https://www.theodinproject.com/paths/foundations/courses/foundations",
+      "https://roadmap.sh/projects/task-tracker",
+      "https://www.saldaodainformatica.com.br/notebook/notebook-acer-nitro-v15-anv15-51-57ws-intel-core-i5-13420h-ram-8gb-ssd-512gb-rtx-3050-156-linux#/26-tipo-recertificado/31-medalha-bronze",
+      "https://www.saldaodainformatica.com.br/notebook/notebook-lenovo-thinkpad-l13-gen1-20r4002ubr-intel-core-i7-10510u-ram-16gb-ssd-256gb-tela-133-fhd-windows-10",
+      "https://www.saldaodainformatica.com.br/notebook/notebook-acer-nitro-5-an515-57-52zq-intel-core-i5-11400h-ram-8gb-ssd-512gb-gtx-1650-156-linux",
+      "https://www.amazon.com.br/notebook-recondicionado/s?k=notebook+recondicionado",
+      "https://www.youtube.com/watch?v=UlvSAb5d-mM",
+      "https://oldservers.com.ar/index.php#galeria",
+      "https://github.com/massgravel/Microsoft-Activation-Scripts",
+      "https://www.microsoft.com/pt-br/conecta/",
+      "https://ifrs.edu.br/",
+      "https://cfc.org.br/",
+      "https://www.ey.com/pt_br",
+      "https://sebrae.com.br/",
+      "https://educacao-executiva.fgv.br/cursos/online",
+      "https://fipecafi.org/",
+      "https://www.ev.org.br/",
+      "https://www.escolavirtual.gov.br/",
+      "https://www.google.com/search?q=Paula+Souza&sca_esv=dedd7ca837f28e21&rlz=1C1HKFL_pt-PTBR1213BR1213&sxsrf=ANbL-n4YHoaaPjcx8z0HtvDs4iGAgeWxug%3A1778273342720&ei=Pkz-ab3GK-LL1sQPyJfh2QM&biw=1366&bih=599&ved=2ahUKEwjK8fq_yKqUAxUCrJUCHfZ_ML8QgK4QegQIBBAD&uact=5&oq=ifrs+institute+semelhantes&gs_lp=Egxnd3Mtd2l6LXNlcnAiGmlmcnMgaW5zdGl0dXRlIHNlbWVsaGFudGVzMgcQIRgKGKABMgcQIRgKGKABSNknUJQVWMEmcAJ4AZABAJgBmQGgAfULqgEEMC4xMrgBA8gBAPgBAZgCDqACvwzCAgoQABhHGNYEGLADwgIGEAAYFhgewgILEAAYgAQYigUYhgPCAgUQABjvBcICCBAAGBYYHhgKwgIIEAAYgAQYogTCAgUQIRigAcICBRAhGJ8FmAMAiAYBkAYIkgcEMi4xMqAH5iiyBwQwLjEyuAemDMIHBzEuNy40LjLIBy-ACAE&sclient=gws-wiz-serp&mstk=AUtExfAroC5yA6-AgBtf0XaLBnf5GAwJLQu9a4jp_3UDOnV7RYXfonxS2rtGTQenOFeZoAFCXhOw_V7jai9IBmpyTzrsrJVZIYh2u8wDb4MFjcl5axa-e4BcqpVdxvkSSl4vmqYMdQFV48XCHkARNvlonHnpVd6Oodfs9fSYmt7lF3lrb0I-WC1a06m57GAmCW3TvL5oTFJkJwPjDsUQHWi5OFT_LLDJ_La8-j7raLODAmPAXIDAcUXFZSsSNaan6lVeGyTLtQA87dUse8WDhW1ed2JT&csui=3",
+      "https://www.cps.sp.gov.br/",
+      "https://www.cps.sp.gov.br/etec/",
+      "https://gogunlocked.com/populous-the-beginning-free-download/",
+      "https://teamtreehouse.com/",
+      "https://dev.to/theodinproject/why-learning-to-code-is-so-damn-hard-11nn",
+      "https://www.udacity.com/blog/front-end-vs-back-end-vs-full-stack-web-developers/",
+      "https://dev.to/",
+      "https://bullettrain.co/",
+      "https://railsbytes.com/",
+      "https://github.com/felipeorlando/aprenda-rubyonrails/blob/master/README.md",
+      "https://gorails.com/",
+      "https://fullstackvideos.com/",
+      "https://www.chegg.com/skills/our-programs/intro-cybersecurity/",
+      "https://www.codigoaberto.net/post/pix-social",
+      "https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth",
+      "https://cloud.google.com/use-cases/free-ai-tools?hl=pt-BR",
+      "https://cbea.ms/git-commit/",
+      "https://dontasktoask.com/",
+      "https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603",
+      "https://replit.com/",
+      "https://www.khanacademy.org/college-careers-more/talks-and-interviews/talks-and-interviews-unit/conversations-with-sal/a/the-learning-myth-why-ill-never-tell-my-son-hes-smart",
+      "https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve",
+      "https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance",
+      "https://napratica.org.br/noticias/aprenda-rapido-com-tecnica-feynman",
+      "https://www.youtube.com/watch?v=XCFUGXBfi9M",
+      "https://grok.com/c/0a52bbee-f0b8-4583-b4ce-24c0a66e5a92?rid=dbaa1eb1-ef58-4478-8f80-bf19f472040c",
+      "https://miscellaneous-c.blogspot.com/2022/04/download-gta-san-andreas-pc-10-us-full.html",
+      "https://codepen.io/",
+      "https://web.archive.org/web/20250918082145/https://old.codinginflow.com/google-programming-questions",
+      "https://codepen.io/trending",
+      "https://stackoverflow.com/questions",
+      "https://web.archive.org/",
+      "https://upnovelas.com/terra-nostra/",
+      "https://tinypng.com/",
+      "https://support.apple.com/en-gb/guide/preview/welcome/mac",
+      "https://support.microsoft.com/en-gb/windows/manage-photos-and-videos-with-microsoft-photos-app-c0c6422f-d4cb-2e3d-eb65-7069071b2f9b",
+      "https://www.gimp.org/",
+      "https://www.adobe.com/express/",
+      "https://auth.services.adobe.com/en_US/index.html?callback=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fadobeid%2FAdobeExpressWeb%2FAdobeID%2Ftoken%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.adobe.com%2523old_hash%253D%2526from_ims%253Dtrue%253Fclient_id%253DAdobeExpressWeb%2526api%253Dauthorize%2526scope%253DAdobeID%252Copenid%252Cgnav%252Cpps.read%252Cfirefly_api%252Cadditional_info.roles%252Cread_organizations%252Caccount_cluster.read%26state%3D%257B%2522jslibver%2522%253A%2522v2-v0.55.0-1-g6de2b7c%2522%252C%2522nonce%2522%253A%25226757113921751724%2522%257D%26code_challenge_method%3Dplain%26use_ms_for_expiry%3Dtrue&client_id=AdobeExpressWeb&scope=AdobeID%2Copenid%2Cgnav%2Cpps.read%2Cfirefly_api%2Cadditional_info.roles%2Cread_organizations%2Caccount_cluster.read&state=%7B%22jslibver%22%3A%22v2-v0.55.0-1-g6de2b7c%22%2C%22nonce%22%3A%226757113921751724%22%7D&relay=eb66d764-ff1b-41ae-8fa0-299fb5a32026&locale=en_US&flow_type=token&idp_flow_type=login&s_p=google%2Cfacebook%2Capple%2Cmicrosoft%2Cline%2Ckakao&response_type=token&code_challenge_method=plain&redirect_uri=https%3A%2F%2Fwww.adobe.com%23old_hash%3D%26from_ims%3Dtrue%3Fclient_id%3DAdobeExpressWeb%26api%3Dauthorize%26scope%3DAdobeID%2Copenid%2Cgnav%2Cpps.read%2Cfirefly_api%2Cadditional_info.roles%2Cread_organizations%2Caccount_cluster.read&use_ms_for_expiry=true#/",
+      "https://gitlab.com/mj-group7725222/MJ-project/-/get_started",
+      "https://docs.github.com/pt/pages",
+      "https://www.netlify.com/",
+      "https://jsfiddle.net/",
+      "https://filezilla-project.org/download.php?type=client",
+      "https://filezilla-project.org/",
+      "https://rsync.samba.org/",
+      "https://marketingplatform.google.com/about/analytics/",
+      "https://www.openwebanalytics.com/",
+      "https://matomo.org/",
+      "https://leetcode.com/",
+      "https://ocw.mit.edu/search/",
+      "https://pll.harvard.edu/catalog/free",
+      "https://online.stanford.edu/free-courses",
+      "https://www.pace.cam.ac.uk/course-type/short-online-courses",
+      "https://portal.offsec.com/explore/all-content?mySubscriptionsFlag=false&sortBy=createdAt:desc",
+      "https://www.linuxvmimages.com/images/kalilinux/",
+      "https://github.com/freeCodeCamp/freeCodeCamp",
+      "https://www.chinitarte.net/Livros.html",
+      "https://opensource.com/",
+      "https://opensource.com/article/23/4/basic-vs-fortran-77",
+      "https://www.ibm.com/br-pt/think/topics/aiops",
+      "https://www.youtube.com/watch?v=_fO-JiH8gb0",
+      "https://museprintables.com/c/how-to-draw/page/7/",
+      "https://support.microsoft.com/pt-br/home/livechatwidget?oc.reconnectid=e890d5a8-f924-4d00-a1d1-2b38f0ccb1ba&customcontext=%7B%22CaseNumber%22%3A%227104673389%22%7D&x-ems-sessionid=0e5f2742-e8a2-e9f2-8cd4-33d7f5ab884a&ocid=OO_Core_NEU_GetHelp_DG_GetHelp_Solutions",
+      "https://www.microsoft.com/en-us/insidetrack/careers?msockid=0d01224bcce06788037e353fcd02669a",
+      "https://apply.careers.microsoft.com/candidate/login",
+      "https://learn.microsoft.com/en-us/training/career-paths/",
+      "https://www.euexplico.pt/search/label/Intelig%C3%AAncia%20Artificial",
+      "https://www.euexplico.pt/search/label/Python",
+      "https://www.euexplico.pt/search/label/Arquitetura%20de%20Computadores",
+      "https://www.osboxes.org/screenshots/",
+      "https://claude.ai/new",
+      "https://www.jobbol.com.br/home-office/sao-paulo-sp",
+      "https://pt.ifixit.com/",
+      "https://chat.qwen.ai/",
+      "https://www.formacaomercadologica.com.br/treinamento/default.asp",
+      "https://jorgitolifenew-104107.postman.co/workspace/ab228d59-3c6f-44de-82e1-7c2f7e0e0a16/request/58039049-4c07b328-7eba-4f25-a2cf-db80a8456965?sideView=agentMode",
+      "https://stoplight.io/",
+      "https://www.postman.com/api-first/",
+      "https://www.escolavirtual.gov.br/catalogo",
+      "https://www.escolavirtual.gov.br/programa/370",
+      "https://www.escolavirtual.gov.br/programa/367",
+      "https://www.escolavirtual.gov.br/programa/365",
+      "https://www.escolavirtual.gov.br/programa/313",
+      "https://www.escolavirtual.gov.br/notificacoes/2",
+      "https://mooc41.escolavirtual.gov.br/course/view.php?id=28480#section-0",
+      "https://www.gametracker.com/games/",
+      "https://www.filmesrave.online/",
+      "https://www.empregos.com.br/vagas",
+      "https://www.adzuna.com.br/search?remote_only=1",
+      "https://uncensored.ai/",
+      "https://visualgo.net/en",
+      "https://thinkygames.com/games/",
+      "https://www.cedac.com.br/",
+      "https://www.sp.senai.br/unidade/online/",
+      "https://www.deeplearning.ai/courses",
+      "https://academy.claude.com/",
+      "https://huggingface.co/spaces",
+      "https://www.fast.ai/",
+      "https://ankiweb.net/decks",
+      "https://n8n.io/workflows/categories/it-ops/?utm_source=n8n_app&utm_medium=template_library&utm_instance=https://masterjorge.app.n8n.cloud/&utm_n8n_version=2.42.0&utm_awc=0&utm_user_role=Support&utm_instance_features=assistant",
+      "https://drawsql.app/",
+      "https://mystery.knightlab.com/",
+      "https://sqlbolt.com/",
+      "https://coddy.tech/",
+      "https://blog.codepen.io/docs/pens/files/",
+      "https://developer.mozilla.org/pt-BR/docs/Learn_web_development?utm_source=chatgpt.com",
+      "https://cs50.harvard.edu/x/?utm_source=chatgpt.com",
+      "https://scrimba.com/backend-path-c0tbi0l98f",
+      "https://goodfirstissue.dev/",
+      "https://drivedepobre.com/tecnologia-e-programacao/6o6tb4FJ4Aoc",
+      "https://drivedepobre.com/tecnologia-e-programacao/hoYQgFTA5OZI",
+      "https://drivedepobre.com/tecnologia-e-programacao/TFkyOpbZrTch",
+      "https://drivedepobre.com/tecnologia-e-programacao/EFVQPL252-8F",
+      "https://github.com/agenda-tech-brasil/agenda-tech-brasil",
+      "https://free-for.dev/",
+      "https://github.com/topics/project-based-learning",
+      "https://github.com/practical-tutorials/project-based-learning",
+      "https://github.com/topics/project-based-learning?l=dart%2F1000&o=desc&s=updated",
+      "https://www.omniroute.online/pt-BR/"
+    ],
+    "other": [
+      "https://redecanais.africa/dexter-sangue-novo-dublado-legendado-lista-de-episodios_90a1c5d03.html",
+      "https://redecanais.dev/lista-negra-the-blacklist-dublado-legendado-lista-de-episodios_30b16f302.html",
+      "https://redecanais.dev/gravity-falls-um-verao-de-misterios-dublado-lista-de-episodios_dcbcc7a02.html",
+      "https://redecanais.africa/lie-to-me-dublado-legendado-lista-de-episodios_045b316e8.html",
+      "https://redecanais.africa/hannibal-dublado-legendado-lista-de-episodios_2ddccc5a5.html",
+      "https://redecanais.africa/arquivo-x-the-x-files-dublado-lista-de-episodios_a8cc99ff6.html",
+      "https://redecanais.africa/sherlock-dublado-lista-completa-de-episodios_e01755e88.html",
+      "https://animefire.plus/animes/one-piece-dublado/255",
+      "https://www.vibecodeapp.com/",
+      "https://replit.com/~",
+      "https://claude.ai/onboarding",
+      "https://lovable.dev/getting-started?redirect=%2Fdashboard",
+      "https://www.youtube.com/watch?v=DbiZu7EL0ME",
+      "https://chorume.club/livros/",
+      "https://github.com/huscarldev/clowclow",
+      "https://dfolloni.substack.com/",
+      "https://large-amber-34e.notion.site/PROMPTS-LANDINGPAGE-CLAUDE-CODE-FRANKLIM-GUI-314a3662d4618088b79be80041f6c393",
+      "https://github.com/topics/claude-skills",
+      "https://www.aiprm.com/pt-br/prompts/",
+      "https://www.aiprm.com/pt-br/prompts/applications/",
+      "https://openrouter.ai/sign-in?redirect_url=https%3A%2F%2Fopenrouter.ai%2Fworkspaces%2Fdefault%2Fkeys",
+      "https://steamunlocked.org/cinderia-free-download/",
+      "https://steamunlocked.org/slay-the-spire-2-free-download/",
+      "https://steamunlocked.org/hytale-free-download/",
+      "https://gist.github.com/nborwankar/31865ad2dfc217c742ad62fc8c59918f",
+      "https://dribbble.com/",
+      "https://openrouter.ai/workspaces/default/keys",
+      "https://zeev.it/blog/prompts-de-ia/",
+      "https://www.youtube.com/watch?v=At0_UzDoiyA",
+      "https://www.escolavirtual.gov.br/programa/google/2",
+      "https://supermemo.guru/wiki/Algorithm_SM-18",
+      "https://onecompiler.com/courses/c/introduction-to-c",
+      "https://www.moddb.com/downloads/metal-slug-collection-1234567-x-pc",
+      "https://gogunlocked.com/1-contra-anniversary-collection-free-download/",
+      "https://steamdb.info/tech/Engine/MonoGame/",
+      "https://www.reddit.com/r/Argaming/comments/1k69bqw/mi_gu%C3%ADa_definitiva_de_optimizaci%C3%B3n_para_windows/?tl=pt-br",
+      "https://github.com/ChrisTitusTech/winutil",
+      "https://embraer.gupy.io/jobs/10265677?jobBoardSource=gupy_public_page",
+      "https://expressjs.com/",
+      "https://dbeaver.com/docs/dbeaver/#where-to-start",
+      "https://dbeaver.com/docs/dbeaver/Getting-started/#introduction",
+      "https://colab.research.google.com/drive/12OzJ3J1MXhGDqSjoUXKFnGiW7sKWgR81#scrollTo=DbuQmoBjeNk5",
+      "https://www.kaggle.com/",
+      "https://stackoverflow.com/ai-assist/chat/487ba0e2-b65b-4053-a8ed-808afb5292e2",
+      "https://chatgpt.com/c/69e8d029-c7ec-83e9-ad08-065632f8e3d1",
+      "https://gemini.google.com/app/f02dcb8bbe60b415",
+      "https://stax.withgoogle.com/projects",
+      "https://avancatech-prefeiturasp.itinovacao.org.br/cursos/",
+      "https://cate.prefeitura.sp.gov.br/cursos/tecnologia/curso-bando-de-dados-relacional/",
+      "https://cate.prefeitura.sp.gov.br/cursos/tecnologia/o-que-e-a-nuvem-aws/",
+      "https://cate.prefeitura.sp.gov.br/cursos/tecnologia/cursos-de-desenvolvimento-de-sites-softwares-e-jogos-no-projeto-digital-ods/",
+      "https://cate.prefeitura.sp.gov.br/cursos/tecnologia/logica-de-programacao-front-end-e-back-end-conheca-os-novos-cursos-de-tecnologia/",
+      "https://cate.prefeitura.sp.gov.br/cursos/tecnologia/trilhas-de-capacitacao-digital-microsoft/",
+      "https://cate.prefeitura.sp.gov.br/cursos/tecnologia/curso-fundamentos-de-ia-no-azure/",
+      "https://cate.prefeitura.sp.gov.br/cursos/tecnologia/curso-bootcamp-ia-generativa-da-aws/",
+      "https://codefinity.com/get-started/spa/v8_new_brl?utm_source=google&utm_medium=cpc&utm_campaign=21415070126&utm_content=162332657925&utm_term=freecodecamp&dki=Freecodecamp&ad_id=720198247386&gad_source=1&gad_campaignid=21415070126&gbraid=0AAAAABTeUgSPgh2mHT6WjdjX-l2rJFdC9&gclid=Cj0KCQjwkrzPBhCqARIsAJN460n482q0gdlTsAjG29DtOUpp-U1DSgdb3xd1pToOgiBHDP5B3ngslNYaAupTEALw_wcB",
+      "https://survey.mercadolibre.com/jfe/form/SV_eVeWF6EiFnS3Zki?gad_source=1&gad_campaignid=23468139077&gbraid=0AAAABBIc6ppOsqevou51koMXuY9puGBvq&gclid=Cj0KCQjw2MbPBhCSARIsAP3jP9wmanrOQEnaoyQglq3ZNnkyRKR37Sihyc65pc8sfhpEwjYW-ZJZS0AaAk2WEALw_wcB",
+      "https://remotar.com.br/",
+      "https://trampos.co/candidato#/vagas",
+      "https://ead.estudar.org.br/c/cc50-o-curso-de-ciencia-da-computacao-de-harvard-no-brasil/sections/196909/lessons/733389",
+      "https://oldservers.com.ar/",
+      "https://www.coursebox.ai/pt",
+      "https://www.iseazy.com/br/author/funcionalidades/criacao-de-curso-ia/",
+      "https://genially.com/pt-br/criar/cursos-on-line/",
+      "https://www.easygenerator.com/br/funcionalidades/easyai/",
+      "https://www.formacaomercadologica.com.br/treinamento/candidato.asp",
+      "https://chatgpt.com/",
+      "https://eforce.mobi/",
+      "https://onlinecursosgratuitos.com.br/login/cadastro",
+      "https://digital.sestsenat.org.br/blog/curso-veiculos-eletricos-hibridos",
+      "https://www.escolavirtual.gov.br/catalogo?query=&carga_horaria=&temas%5B%5D=57",
+      "https://www.escolavirtual.gov.br/curso/1544",
+      "https://www.escolavirtual.gov.br/curso/1450",
+      "https://www.escolavirtual.gov.br/curso/1449",
+      "https://www.escolavirtual.gov.br/curso/1447",
+      "https://www.escolavirtual.gov.br/curso/1446",
+      "https://www.escolavirtual.gov.br/curso/1442",
+      "https://www.escolavirtual.gov.br/curso/1439",
+      "https://www.escolavirtual.gov.br/curso/1432",
+      "https://www.escolavirtual.gov.br/curso/1437",
+      "https://www.escolavirtual.gov.br/curso/1422",
+      "https://www.escolavirtual.gov.br/curso/1374",
+      "https://www.escolavirtual.gov.br/curso/1376",
+      "https://www.escolavirtual.gov.br/curso/1375",
+      "https://knime.learnupon.com/catalog?src=knimeappmodernui&srcStartups=2-4",
+      "https://mooc41.escolavirtual.gov.br/mod/page/view.php?id=452786"
+    ],
+    "synced": []
+  },
+  "recent": [
+    "https://www.omniroute.online/pt-BR/",
+    "https://github.com/topics/project-based-learning?l=dart%2F1000&o=desc&s=updated",
+    "https://github.com/practical-tutorials/project-based-learning",
+    "https://github.com/topics/project-based-learning",
+    "https://free-for.dev/",
+    "https://github.com/agenda-tech-brasil/agenda-tech-brasil",
+    "https://drivedepobre.com/tecnologia-e-programacao/EFVQPL252-8F",
+    "https://drivedepobre.com/tecnologia-e-programacao/TFkyOpbZrTch",
+    "https://drivedepobre.com/tecnologia-e-programacao/hoYQgFTA5OZI",
+    "https://drivedepobre.com/tecnologia-e-programacao/6o6tb4FJ4Aoc",
+    "https://goodfirstissue.dev/",
+    "https://scrimba.com/backend-path-c0tbi0l98f",
+    "https://cs50.harvard.edu/x/?utm_source=chatgpt.com",
+    "https://developer.mozilla.org/pt-BR/docs/Learn_web_development?utm_source=chatgpt.com",
+    "https://blog.codepen.io/docs/pens/files/",
+    "https://coddy.tech/",
+    "https://sqlbolt.com/",
+    "https://mystery.knightlab.com/",
+    "https://drawsql.app/",
+    "https://n8n.io/workflows/categories/it-ops/?utm_source=n8n_app&utm_medium=template_library&utm_instance=https://masterjorge.app.n8n.cloud/&utm_n8n_version=2.42.0&utm_awc=0&utm_user_role=Support&utm_instance_features=assistant",
+    "https://ankiweb.net/decks",
+    "https://www.fast.ai/",
+    "https://huggingface.co/spaces",
+    "https://academy.claude.com/",
+    "https://www.deeplearning.ai/courses",
+    "https://www.sp.senai.br/unidade/online/",
+    "https://www.cedac.com.br/",
+    "https://thinkygames.com/games/",
+    "https://visualgo.net/en",
+    "https://uncensored.ai/",
+    "https://www.adzuna.com.br/search?remote_only=1",
+    "https://www.empregos.com.br/vagas",
+    "https://www.filmesrave.online/",
+    "https://www.gametracker.com/games/",
+    "https://mooc41.escolavirtual.gov.br/course/view.php?id=28480#section-0",
+    "https://www.escolavirtual.gov.br/notificacoes/2",
+    "https://www.escolavirtual.gov.br/programa/313",
+    "https://www.escolavirtual.gov.br/programa/365",
+    "https://www.escolavirtual.gov.br/programa/367",
+    "https://www.escolavirtual.gov.br/programa/370",
+    "https://www.escolavirtual.gov.br/catalogo"
+  ],
+  "all_bookmarks": [
+    {
+      "name": "Central Field Service",
+      "url": "https://centralfieldservice.com.br/",
+      "domain": "centralfieldservice.com.br",
+      "date_added": "13422296553679546",
+      "added_datetime": "2026-05-03T12:42:33.679546"
+    },
+    {
+      "name": "Foundations | The Odin Project",
+      "url": "https://www.theodinproject.com/paths/foundations/courses/foundations",
+      "domain": "www.theodinproject.com",
+      "date_added": "13422327246397455",
+      "added_datetime": "2026-05-03T21:14:06.397455"
+    },
+    {
+      "name": "Task Tracker CLI",
+      "url": "https://roadmap.sh/projects/task-tracker",
+      "domain": "roadmap.sh",
+      "date_added": "13422327247944169",
+      "added_datetime": "2026-05-03T21:14:07.944169"
+    },
+    {
+      "name": "Notebook Acer Nitro V15 ANV15-51 i5 RTX 3050 | Saldao da Informatica",
+      "url": "https://www.saldaodainformatica.com.br/notebook/notebook-acer-nitro-v15-anv15-51-57ws-intel-core-i5-13420h-ram-8gb-ssd-512gb-rtx-3050-156-linux#/26-tipo-recertificado/31-medalha-bronze",
+      "domain": "www.saldaodainformatica.com.br",
+      "date_added": "13422487332853861",
+      "added_datetime": "2026-05-05T17:42:12.853861"
+    },
+    {
+      "name": "Lenovo ThinkPad L13 i7 16GB 256GB | Saldao da Informatica",
+      "url": "https://www.saldaodainformatica.com.br/notebook/notebook-lenovo-thinkpad-l13-gen1-20r4002ubr-intel-core-i7-10510u-ram-16gb-ssd-256gb-tela-133-fhd-windows-10",
+      "domain": "www.saldaodainformatica.com.br",
+      "date_added": "13422487564087339",
+      "added_datetime": "2026-05-05T17:46:04.087339"
+    },
+    {
+      "name": "Notebook Gamer Acer Nitro Linux | Saldo da Informática",
+      "url": "https://www.saldaodainformatica.com.br/notebook/notebook-acer-nitro-5-an515-57-52zq-intel-core-i5-11400h-ram-8gb-ssd-512gb-gtx-1650-156-linux",
+      "domain": "www.saldaodainformatica.com.br",
+      "date_added": "13422487756417969",
+      "added_datetime": "2026-05-05T17:49:16.417969"
+    },
+    {
+      "name": "Amazon.com.br : notebook recondicionado",
+      "url": "https://www.amazon.com.br/notebook-recondicionado/s?k=notebook+recondicionado",
+      "domain": "www.amazon.com.br",
+      "date_added": "13422492586619047",
+      "added_datetime": "2026-05-05T19:09:46.619047"
+    },
+    {
+      "name": "Fix SrtTrail.txt Error in Windows 10/11 | Startup Repair Loop Fixed - YouTube",
+      "url": "https://www.youtube.com/watch?v=UlvSAb5d-mM",
+      "domain": "www.youtube.com",
+      "date_added": "13422593507896318",
+      "added_datetime": "2026-05-06T23:11:47.896318"
+    },
+    {
+      "name": "OldServers — Nuevos servers, viejos players",
+      "url": "https://oldservers.com.ar/index.php#galeria",
+      "domain": "oldservers.com.ar",
+      "date_added": "13422616434138410",
+      "added_datetime": "2026-05-07T05:33:54.138410"
+    },
+    {
+      "name": "GitHub - massgravel/Microsoft-Activation-Scripts: Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. · GitHub",
+      "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+      "domain": "github.com",
+      "date_added": "13422616461994941",
+      "added_datetime": "2026-05-07T05:34:21.994941"
+    },
+    {
+      "name": "Mais capacitação e oportunidades para o profissional do futuro",
+      "url": "https://www.microsoft.com/pt-br/conecta/",
+      "domain": "www.microsoft.com",
+      "date_added": "13422745365100473",
+      "added_datetime": "2026-05-08T17:22:45.100473"
+    },
+    {
+      "name": "Instituto Federal do Rio Grande do Sul - O Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS) é uma instituição federal de ensino público e gratuito que se propõe a oferecer ensino humanizado, crítico e cidadão.",
+      "url": "https://ifrs.edu.br/",
+      "domain": "ifrs.edu.br",
+      "date_added": "13422746943143153",
+      "added_datetime": "2026-05-08T17:49:03.143153"
+    },
+    {
+      "name": "::Conselho Federal de Contabilidade:: |",
+      "url": "https://cfc.org.br/",
+      "domain": "cfc.org.br",
+      "date_added": "13422747025770812",
+      "added_datetime": "2026-05-08T17:50:25.770812"
+    },
+    {
+      "name": "EY - Brasil | Shape the future with confidence",
+      "url": "https://www.ey.com/pt_br",
+      "domain": "www.ey.com",
+      "date_added": "13422747048407083",
+      "added_datetime": "2026-05-08T17:50:48.407083"
+    },
+    {
+      "name": "Sebrae | Abra, Formalize e Faça seu Negócio Crescer",
+      "url": "https://sebrae.com.br/",
+      "domain": "sebrae.com.br",
+      "date_added": "13422747076223096",
+      "added_datetime": "2026-05-08T17:51:16.223096"
+    },
+    {
+      "name": "Online | FGV Educação Executiva",
+      "url": "https://educacao-executiva.fgv.br/cursos/online",
+      "domain": "educacao-executiva.fgv.br",
+      "date_added": "13422747079977119",
+      "added_datetime": "2026-05-08T17:51:19.977119"
+    },
+    {
+      "name": "FIPECAFI",
+      "url": "https://fipecafi.org/",
+      "domain": "fipecafi.org",
+      "date_added": "13422747084559570",
+      "added_datetime": "2026-05-08T17:51:24.559570"
+    },
+    {
+      "name": "Fundação Bradesco - Escola Virtual",
+      "url": "https://www.ev.org.br/",
+      "domain": "www.ev.org.br",
+      "date_added": "13422747087445839",
+      "added_datetime": "2026-05-08T17:51:27.445839"
+    },
+    {
+      "name": "Escola Virtual Gov",
+      "url": "https://www.escolavirtual.gov.br/",
+      "domain": "www.escolavirtual.gov.br",
+      "date_added": "13422747090518944",
+      "added_datetime": "2026-05-08T17:51:30.518944"
+    },
+    {
+      "name": "Paula Souza - Google Search",
+      "url": "https://www.google.com/search?q=Paula+Souza&sca_esv=dedd7ca837f28e21&rlz=1C1HKFL_pt-PTBR1213BR1213&sxsrf=ANbL-n4YHoaaPjcx8z0HtvDs4iGAgeWxug%3A1778273342720&ei=Pkz-ab3GK-LL1sQPyJfh2QM&biw=1366&bih=599&ved=2ahUKEwjK8fq_yKqUAxUCrJUCHfZ_ML8QgK4QegQIBBAD&uact=5&oq=ifrs+institute+semelhantes&gs_lp=Egxnd3Mtd2l6LXNlcnAiGmlmcnMgaW5zdGl0dXRlIHNlbWVsaGFudGVzMgcQIRgKGKABMgcQIRgKGKABSNknUJQVWMEmcAJ4AZABAJgBmQGgAfULqgEEMC4xMrgBA8gBAPgBAZgCDqACvwzCAgoQABhHGNYEGLADwgIGEAAYFhgewgILEAAYgAQYigUYhgPCAgUQABjvBcICCBAAGBYYHhgKwgIIEAAYgAQYogTCAgUQIRigAcICBRAhGJ8FmAMAiAYBkAYIkgcEMi4xMqAH5iiyBwQwLjEyuAemDMIHBzEuNy40LjLIBy-ACAE&sclient=gws-wiz-serp&mstk=AUtExfAroC5yA6-AgBtf0XaLBnf5GAwJLQu9a4jp_3UDOnV7RYXfonxS2rtGTQenOFeZoAFCXhOw_V7jai9IBmpyTzrsrJVZIYh2u8wDb4MFjcl5axa-e4BcqpVdxvkSSl4vmqYMdQFV48XCHkARNvlonHnpVd6Oodfs9fSYmt7lF3lrb0I-WC1a06m57GAmCW3TvL5oTFJkJwPjDsUQHWi5OFT_LLDJ_La8-j7raLODAmPAXIDAcUXFZSsSNaan6lVeGyTLtQA87dUse8WDhW1ed2JT&csui=3",
+      "domain": "www.google.com",
+      "date_added": "13422747092839291",
+      "added_datetime": "2026-05-08T17:51:32.839291"
+    },
+    {
+      "name": "Centro Paula Souza | Competência em Educação Pública Profissional",
+      "url": "https://www.cps.sp.gov.br/",
+      "domain": "www.cps.sp.gov.br",
+      "date_added": "13422747256671983",
+      "added_datetime": "2026-05-08T17:54:16.671983"
+    },
+    {
+      "name": "Etec | Centro Paula Souza",
+      "url": "https://www.cps.sp.gov.br/etec/",
+      "domain": "www.cps.sp.gov.br",
+      "date_added": "13422747261590301",
+      "added_datetime": "2026-05-08T17:54:21.590301"
+    },
+    {
+      "name": "Populous™: The Beginning Free Download (v1.02) » GOG Unlocked",
+      "url": "https://gogunlocked.com/populous-the-beginning-free-download/",
+      "domain": "gogunlocked.com",
+      "date_added": "13422825227712094",
+      "added_datetime": "2026-05-09T15:33:47.712094"
+    },
+    {
+      "name": "Learn to Code Online with Treehouse | Guided Courses & Techdegree Bootcamps",
+      "url": "https://teamtreehouse.com/",
+      "domain": "teamtreehouse.com",
+      "date_added": "13422827643488254",
+      "added_datetime": "2026-05-09T16:14:03.488254"
+    },
+    {
+      "name": "Por que aprender a programar é tão difícil - Comunidade DEV",
+      "url": "https://dev.to/theodinproject/why-learning-to-code-is-so-damn-hard-11nn",
+      "domain": "dev.to",
+      "date_added": "13422828827920952",
+      "added_datetime": "2026-05-09T16:33:47.920952"
+    },
+    {
+      "name": "Front-End vs Back-End vs Full Stack Web Developers | Udacity",
+      "url": "https://www.udacity.com/blog/front-end-vs-back-end-vs-full-stack-web-developers/",
+      "domain": "www.udacity.com",
+      "date_added": "13422828925247118",
+      "added_datetime": "2026-05-09T16:35:25.247118"
+    },
+    {
+      "name": "DEV Community",
+      "url": "https://dev.to/",
+      "domain": "dev.to",
+      "date_added": "13422829029981581",
+      "added_datetime": "2026-05-09T16:37:09.981581"
+    },
+    {
+      "name": "The Ruby on Rails SaaS Template | Bullet Train",
+      "url": "https://bullettrain.co/",
+      "domain": "bullettrain.co",
+      "date_added": "13422910166840624",
+      "added_datetime": "2026-05-10T15:09:26.840624"
+    },
+    {
+      "name": "Rails Bytes",
+      "url": "https://railsbytes.com/",
+      "domain": "railsbytes.com",
+      "date_added": "13422910169252617",
+      "added_datetime": "2026-05-10T15:09:29.252617"
+    },
+    {
+      "name": "aprenda-rubyonrails/README.md at master · felipeorlando/aprenda-rubyonrails",
+      "url": "https://github.com/felipeorlando/aprenda-rubyonrails/blob/master/README.md",
+      "domain": "github.com",
+      "date_added": "13422910576703321",
+      "added_datetime": "2026-05-10T15:16:16.703321"
+    },
+    {
+      "name": "Learn Ruby on Rails | GoRails",
+      "url": "https://gorails.com/",
+      "domain": "gorails.com",
+      "date_added": "13422910630820228",
+      "added_datetime": "2026-05-10T15:17:10.820228"
+    },
+    {
+      "name": "Fullstack Video Tutorials",
+      "url": "https://fullstackvideos.com/",
+      "domain": "fullstackvideos.com",
+      "date_added": "13422910671972062",
+      "added_datetime": "2026-05-10T15:17:51.972062"
+    },
+    {
+      "name": "Introduction to Cybersecurity Program | Chegg Skills",
+      "url": "https://www.chegg.com/skills/our-programs/intro-cybersecurity/",
+      "domain": "www.chegg.com",
+      "date_added": "13422913564917093",
+      "added_datetime": "2026-05-10T16:06:04.917093"
+    },
+    {
+      "name": "O PIX Social",
+      "url": "https://www.codigoaberto.net/post/pix-social",
+      "domain": "www.codigoaberto.net",
+      "date_added": "13422939320800774",
+      "added_datetime": "2026-05-10T23:15:20.800774"
+    },
+    {
+      "name": "Estilos de Aprendizagem: Um Mito | Centro Poorvu para Ensino e Aprendizagem",
+      "url": "https://poorvucenter.yale.edu/teaching/teaching-resource-library/learning-styles-as-a-myth",
+      "domain": "poorvucenter.yale.edu",
+      "date_added": "13423007010359762",
+      "added_datetime": "2026-05-11T18:03:30.359762"
+    },
+    {
+      "name": "Mais de 10 ferramentas de IA sem custo financeiro para 2026 | Google Cloud",
+      "url": "https://cloud.google.com/use-cases/free-ai-tools?hl=pt-BR",
+      "domain": "cloud.google.com",
+      "date_added": "13423009332825596",
+      "added_datetime": "2026-05-11T18:42:12.825596"
+    },
+    {
+      "name": "How to Write a Git Commit Message",
+      "url": "https://cbea.ms/git-commit/",
+      "domain": "cbea.ms",
+      "date_added": "13423016303743031",
+      "added_datetime": "2026-05-11T20:38:23.743031"
+    },
+    {
+      "name": "Don't ask to ask, just ask",
+      "url": "https://dontasktoask.com/",
+      "domain": "dontasktoask.com",
+      "date_added": "13423020052569567",
+      "added_datetime": "2026-05-11T21:40:52.569567"
+    },
+    {
+      "name": "How to be great at asking coding questions | by Gordon Zhu | Medium",
+      "url": "https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603",
+      "domain": "medium.com",
+      "date_added": "13423020054987467",
+      "added_datetime": "2026-05-11T21:40:54.987467"
+    },
+    {
+      "name": "Replit – Build apps and sites with AI - Replit",
+      "url": "https://replit.com/",
+      "domain": "replit.com",
+      "date_added": "13423020059188057",
+      "added_datetime": "2026-05-11T21:40:59.188057"
+    },
+    {
+      "name": "Khan Academy",
+      "url": "https://www.khanacademy.org/college-careers-more/talks-and-interviews/talks-and-interviews-unit/conversations-with-sal/a/the-learning-myth-why-ill-never-tell-my-son-hes-smart",
+      "domain": "www.khanacademy.org",
+      "date_added": "13423020067267045",
+      "added_datetime": "2026-05-11T21:41:07.267045"
+    },
+    {
+      "name": "Carol Dweck: The power of believing that you can improve | TED Talk",
+      "url": "https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve",
+      "domain": "www.ted.com",
+      "date_added": "13423020077098833",
+      "added_datetime": "2026-05-11T21:41:17.098833"
+    },
+    {
+      "name": "Angela Lee Duckworth: Grit: The power of passion and perseverance | TED Talk",
+      "url": "https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance",
+      "domain": "www.ted.com",
+      "date_added": "13423020080929725",
+      "added_datetime": "2026-05-11T21:41:20.929725"
+    },
+    {
+      "name": "Técnica Feynman: o jeito mais simples de aprender (com exemplo)",
+      "url": "https://napratica.org.br/noticias/aprenda-rapido-com-tecnica-feynman",
+      "domain": "napratica.org.br",
+      "date_added": "13423113423291958",
+      "added_datetime": "2026-05-12T23:37:03.291958"
+    },
+    {
+      "name": "Único pen-drive QUE você PRECISA pra instalar e recuperar SISTEMAS - Medicat - YouTube",
+      "url": "https://www.youtube.com/watch?v=XCFUGXBfi9M",
+      "domain": "www.youtube.com",
+      "date_added": "13423181177008423",
+      "added_datetime": "2026-05-13T18:26:17.008423"
+    },
+    {
+      "name": "Grok: Versatile AI Chatbot Capabilities - Grok",
+      "url": "https://grok.com/c/0a52bbee-f0b8-4583-b4ce-24c0a66e5a92?rid=dbaa1eb1-ef58-4478-8f80-bf19f472040c",
+      "domain": "grok.com",
+      "date_added": "13423190622371465",
+      "added_datetime": "2026-05-13T21:03:42.371465"
+    },
+    {
+      "name": "[Download] GTA San Andreas (PC 1.0 US Full Retail + tradução) - Miscellaneous-C",
+      "url": "https://miscellaneous-c.blogspot.com/2022/04/download-gta-san-andreas-pc-10-us-full.html",
+      "domain": "miscellaneous-c.blogspot.com",
+      "date_added": "13423513550029019",
+      "added_datetime": "2026-05-17T14:45:50.029019"
+    },
+    {
+      "name": "CodePen: Online Code Editor and Front End Web Developer Community",
+      "url": "https://codepen.io/",
+      "domain": "codepen.io",
+      "date_added": "13423714850841052",
+      "added_datetime": "2026-05-19T22:40:50.841052"
+    },
+    {
+      "name": "How to Use Google to Solve Your Programming Questions – Coding in Flow",
+      "url": "https://web.archive.org/web/20250918082145/https://old.codinginflow.com/google-programming-questions",
+      "domain": "web.archive.org",
+      "date_added": "13423715577216117",
+      "added_datetime": "2026-05-19T22:52:57.216117"
+    },
+    {
+      "name": "Trending - CodePen",
+      "url": "https://codepen.io/trending",
+      "domain": "codepen.io",
+      "date_added": "13423715580679530",
+      "added_datetime": "2026-05-19T22:53:00.679530"
+    },
+    {
+      "name": "Newest Questions - Stack Overflow",
+      "url": "https://stackoverflow.com/questions",
+      "domain": "stackoverflow.com",
+      "date_added": "13423716158010859",
+      "added_datetime": "2026-05-19T23:02:38.010859"
+    },
+    {
+      "name": "Máquina do Tempo",
+      "url": "https://web.archive.org/",
+      "domain": "web.archive.org",
+      "date_added": "13423718616076100",
+      "added_datetime": "2026-05-19T23:43:36.076100"
+    },
+    {
+      "name": "Terra Nostra: Assistir Novela Online - UP Novelas",
+      "url": "https://upnovelas.com/terra-nostra/",
+      "domain": "upnovelas.com",
+      "date_added": "13423978205990318",
+      "added_datetime": "2026-05-22T23:50:05.990318"
+    },
+    {
+      "name": "TinyPNG – Compress WebP, PNG and JPEG images intelligently",
+      "url": "https://tinypng.com/",
+      "domain": "tinypng.com",
+      "date_added": "13424222192046690",
+      "added_datetime": "2026-05-25T19:36:32.046690"
+    },
+    {
+      "name": "Preview User Guide for Mac – Apple Support (UK)",
+      "url": "https://support.apple.com/en-gb/guide/preview/welcome/mac",
+      "domain": "support.apple.com",
+      "date_added": "13424222203096226",
+      "added_datetime": "2026-05-25T19:36:43.096226"
+    },
+    {
+      "name": "Manage photos and videos with Microsoft Photos app - Microsoft Support",
+      "url": "https://support.microsoft.com/en-gb/windows/manage-photos-and-videos-with-microsoft-photos-app-c0c6422f-d4cb-2e3d-eb65-7069071b2f9b",
+      "domain": "support.microsoft.com",
+      "date_added": "13424222206697684",
+      "added_datetime": "2026-05-25T19:36:46.697684"
+    },
+    {
+      "name": "GIMP - GNU Image Manipulation Program",
+      "url": "https://www.gimp.org/",
+      "domain": "www.gimp.org",
+      "date_added": "13424222930361115",
+      "added_datetime": "2026-05-25T19:48:50.361115"
+    },
+    {
+      "name": "Free Design, Photo, and Video Tool – The quick and easy app to create on-brand content | Adobe Express",
+      "url": "https://www.adobe.com/express/",
+      "domain": "www.adobe.com",
+      "date_added": "13424222933590418",
+      "added_datetime": "2026-05-25T19:48:53.590418"
+    },
+    {
+      "name": "Sign in",
+      "url": "https://auth.services.adobe.com/en_US/index.html?callback=https%3A%2F%2Fims-na1.adobelogin.com%2Fims%2Fadobeid%2FAdobeExpressWeb%2FAdobeID%2Ftoken%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.adobe.com%2523old_hash%253D%2526from_ims%253Dtrue%253Fclient_id%253DAdobeExpressWeb%2526api%253Dauthorize%2526scope%253DAdobeID%252Copenid%252Cgnav%252Cpps.read%252Cfirefly_api%252Cadditional_info.roles%252Cread_organizations%252Caccount_cluster.read%26state%3D%257B%2522jslibver%2522%253A%2522v2-v0.55.0-1-g6de2b7c%2522%252C%2522nonce%2522%253A%25226757113921751724%2522%257D%26code_challenge_method%3Dplain%26use_ms_for_expiry%3Dtrue&client_id=AdobeExpressWeb&scope=AdobeID%2Copenid%2Cgnav%2Cpps.read%2Cfirefly_api%2Cadditional_info.roles%2Cread_organizations%2Caccount_cluster.read&state=%7B%22jslibver%22%3A%22v2-v0.55.0-1-g6de2b7c%22%2C%22nonce%22%3A%226757113921751724%22%7D&relay=eb66d764-ff1b-41ae-8fa0-299fb5a32026&locale=en_US&flow_type=token&idp_flow_type=login&s_p=google%2Cfacebook%2Capple%2Cmicrosoft%2Cline%2Ckakao&response_type=token&code_challenge_method=plain&redirect_uri=https%3A%2F%2Fwww.adobe.com%23old_hash%3D%26from_ims%3Dtrue%3Fclient_id%3DAdobeExpressWeb%26api%3Dauthorize%26scope%3DAdobeID%2Copenid%2Cgnav%2Cpps.read%2Cfirefly_api%2Cadditional_info.roles%2Cread_organizations%2Caccount_cluster.read&use_ms_for_expiry=true#/",
+      "domain": "auth.services.adobe.com",
+      "date_added": "13424222936837147",
+      "added_datetime": "2026-05-25T19:48:56.837147"
+    },
+    {
+      "name": "Get started · MJ-group / MJ-project · GitLab",
+      "url": "https://gitlab.com/mj-group7725222/MJ-project/-/get_started",
+      "domain": "gitlab.com",
+      "date_added": "13424223136679252",
+      "added_datetime": "2026-05-25T19:52:16.679252"
+    },
+    {
+      "name": "Documentação do GitHub Pages - Documentos do GitHub",
+      "url": "https://docs.github.com/pt/pages",
+      "domain": "docs.github.com",
+      "date_added": "13424234466966186",
+      "added_datetime": "2026-05-25T23:01:06.966186"
+    },
+    {
+      "name": "Push your ideas to the web | Netlify",
+      "url": "https://www.netlify.com/",
+      "domain": "www.netlify.com",
+      "date_added": "13424234469430553",
+      "added_datetime": "2026-05-25T23:01:09.430553"
+    },
+    {
+      "name": "JSFiddle - Code Playground",
+      "url": "https://jsfiddle.net/",
+      "domain": "jsfiddle.net",
+      "date_added": "13424234491573325",
+      "added_datetime": "2026-05-25T23:01:31.573325"
+    },
+    {
+      "name": "Download FileZilla Client for Windows (64bit x86)",
+      "url": "https://filezilla-project.org/download.php?type=client",
+      "domain": "filezilla-project.org",
+      "date_added": "13424234538966050",
+      "added_datetime": "2026-05-25T23:02:18.966050"
+    },
+    {
+      "name": "FileZilla - The free FTP solution",
+      "url": "https://filezilla-project.org/",
+      "domain": "filezilla-project.org",
+      "date_added": "13424234546245856",
+      "added_datetime": "2026-05-25T23:02:26.245856"
+    },
+    {
+      "name": "rsync",
+      "url": "https://rsync.samba.org/",
+      "domain": "rsync.samba.org",
+      "date_added": "13424235046725532",
+      "added_datetime": "2026-05-25T23:10:46.725532"
+    },
+    {
+      "name": "Ferramentas de análise e soluções para sua empresa: Google Analytics",
+      "url": "https://marketingplatform.google.com/about/analytics/",
+      "domain": "marketingplatform.google.com",
+      "date_added": "13424235843011515",
+      "added_datetime": "2026-05-25T23:24:03.011515"
+    },
+    {
+      "name": "Home - Open Web Analytics",
+      "url": "https://www.openwebanalytics.com/",
+      "domain": "www.openwebanalytics.com",
+      "date_added": "13424235845843825",
+      "added_datetime": "2026-05-25T23:24:05.843825"
+    },
+    {
+      "name": "Privacy-first analytics you can trust - Analytics Platform - Matomo",
+      "url": "https://matomo.org/",
+      "domain": "matomo.org",
+      "date_added": "13424235848549189",
+      "added_datetime": "2026-05-25T23:24:08.549189"
+    },
+    {
+      "name": "LeetCode - A principal plataforma de aprendizado de programação online do mundo",
+      "url": "https://leetcode.com/",
+      "domain": "leetcode.com",
+      "date_added": "13424927206113581",
+      "added_datetime": "2026-06-02T23:26:46.113581"
+    },
+    {
+      "name": "Search | MIT OpenCourseWare | Free Online Course Materials",
+      "url": "https://ocw.mit.edu/search/",
+      "domain": "ocw.mit.edu",
+      "date_added": "13424937107656535",
+      "added_datetime": "2026-06-03T02:11:47.656535"
+    },
+    {
+      "name": "Free Courses | Harvard University",
+      "url": "https://pll.harvard.edu/catalog/free",
+      "domain": "pll.harvard.edu",
+      "date_added": "13424938777706007",
+      "added_datetime": "2026-06-03T02:39:37.706007"
+    },
+    {
+      "name": "Free Online Courses | Stanford Online",
+      "url": "https://online.stanford.edu/free-courses",
+      "domain": "online.stanford.edu",
+      "date_added": "13424938812778086",
+      "added_datetime": "2026-06-03T02:40:12.778086"
+    },
+    {
+      "name": "Short online courses | Professional and Continuing Education",
+      "url": "https://www.pace.cam.ac.uk/course-type/short-online-courses",
+      "domain": "www.pace.cam.ac.uk",
+      "date_added": "13425175222438185",
+      "added_datetime": "2026-06-05T20:20:22.438185"
+    },
+    {
+      "name": "OffSec | Explore",
+      "url": "https://portal.offsec.com/explore/all-content?mySubscriptionsFlag=false&sortBy=createdAt:desc",
+      "domain": "portal.offsec.com",
+      "date_added": "13425454209145709",
+      "added_datetime": "2026-06-09T01:50:09.145709"
+    },
+    {
+      "name": "Kali Linux 2024.3 VM Images | Kali Linux 2024.3 VirtualBox Image | Kali Linux 2024.3 VMware Image",
+      "url": "https://www.linuxvmimages.com/images/kalilinux/",
+      "domain": "www.linuxvmimages.com",
+      "date_added": "13425512490843432",
+      "added_datetime": "2026-06-09T18:01:30.843432"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp: freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "domain": "github.com",
+      "date_added": "13425594086169567",
+      "added_datetime": "2026-06-10T16:41:26.169567"
+    },
+    {
+      "name": "livros",
+      "url": "https://www.chinitarte.net/Livros.html",
+      "domain": "www.chinitarte.net",
+      "date_added": "13425611094458886",
+      "added_datetime": "2026-06-10T21:24:54.458886"
+    },
+    {
+      "name": "Opensource.com",
+      "url": "https://opensource.com/",
+      "domain": "opensource.com",
+      "date_added": "13425612728052097",
+      "added_datetime": "2026-06-10T21:52:08.052097"
+    },
+    {
+      "name": "BASIC vs. FORTRAN 77: Comparing programming blasts from the past | Opensource.com",
+      "url": "https://opensource.com/article/23/4/basic-vs-fortran-77",
+      "domain": "opensource.com",
+      "date_added": "13425620657266740",
+      "added_datetime": "2026-06-11T00:04:17.266740"
+    },
+    {
+      "name": "O que é AIOps? | IBM",
+      "url": "https://www.ibm.com/br-pt/think/topics/aiops",
+      "domain": "www.ibm.com",
+      "date_added": "13425622332780569",
+      "added_datetime": "2026-06-11T00:32:12.780569"
+    },
+    {
+      "name": "1 HORA DE SAMBA PARA OUVIR EM PAZ - VOZ E VIOLÃO - YouTube",
+      "url": "https://www.youtube.com/watch?v=_fO-JiH8gb0",
+      "domain": "www.youtube.com",
+      "date_added": "13425838528163762",
+      "added_datetime": "2026-06-13T12:35:28.163762"
+    },
+    {
+      "name": "Free Printable Drawing Tutorials | Page 7",
+      "url": "https://museprintables.com/c/how-to-draw/page/7/",
+      "domain": "museprintables.com",
+      "date_added": "13425863703986176",
+      "added_datetime": "2026-06-13T19:35:03.986176"
+    },
+    {
+      "name": "Widget de Chats Ao Vivo",
+      "url": "https://support.microsoft.com/pt-br/home/livechatwidget?oc.reconnectid=e890d5a8-f924-4d00-a1d1-2b38f0ccb1ba&customcontext=%7B%22CaseNumber%22%3A%227104673389%22%7D&x-ems-sessionid=0e5f2742-e8a2-e9f2-8cd4-33d7f5ab884a&ocid=OO_Core_NEU_GetHelp_DG_GetHelp_Solutions",
+      "domain": "support.microsoft.com",
+      "date_added": "13426623335931680",
+      "added_datetime": "2026-06-22T14:35:35.931680"
+    },
+    {
+      "name": "Microsoft careers",
+      "url": "https://www.microsoft.com/en-us/insidetrack/careers?msockid=0d01224bcce06788037e353fcd02669a",
+      "domain": "www.microsoft.com",
+      "date_added": "13426627807287394",
+      "added_datetime": "2026-06-22T15:50:07.287394"
+    },
+    {
+      "name": "Login",
+      "url": "https://apply.careers.microsoft.com/candidate/login",
+      "domain": "apply.careers.microsoft.com",
+      "date_added": "13426627809908329",
+      "added_datetime": "2026-06-22T15:50:09.908329"
+    },
+    {
+      "name": "Explore Career Paths on Microsoft Learn | Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/training/career-paths/",
+      "domain": "learn.microsoft.com",
+      "date_added": "13426627817331182",
+      "added_datetime": "2026-06-22T15:50:17.331182"
+    },
+    {
+      "name": "Eu Explico - Explicações de Ensino Superior: Inteligência Artificial",
+      "url": "https://www.euexplico.pt/search/label/Intelig%C3%AAncia%20Artificial",
+      "domain": "www.euexplico.pt",
+      "date_added": "13426714869555075",
+      "added_datetime": "2026-06-23T16:01:09.555075"
+    },
+    {
+      "name": "Eu Explico - Explicações de Ensino Superior: Python",
+      "url": "https://www.euexplico.pt/search/label/Python",
+      "domain": "www.euexplico.pt",
+      "date_added": "13426714963166061",
+      "added_datetime": "2026-06-23T16:02:43.166061"
+    },
+    {
+      "name": "Eu Explico - Explicações de Ensino Superior: Arquitetura de Computadores",
+      "url": "https://www.euexplico.pt/search/label/Arquitetura%20de%20Computadores",
+      "domain": "www.euexplico.pt",
+      "date_added": "13426715282304212",
+      "added_datetime": "2026-06-23T16:08:02.304212"
+    },
+    {
+      "name": "Virtual Machine Screenshots",
+      "url": "https://www.osboxes.org/screenshots/",
+      "domain": "www.osboxes.org",
+      "date_added": "13426717557812020",
+      "added_datetime": "2026-06-23T16:45:57.812020"
+    },
+    {
+      "name": "New chat - Claude",
+      "url": "https://claude.ai/new",
+      "domain": "claude.ai",
+      "date_added": "13426781364029096",
+      "added_datetime": "2026-06-24T10:29:24.029096"
+    },
+    {
+      "name": "Vagas Home Office em São Paulo / SP | Jobbol Empregos - Trabalhe de qualquer lugar",
+      "url": "https://www.jobbol.com.br/home-office/sao-paulo-sp",
+      "domain": "www.jobbol.com.br",
+      "date_added": "13427041644846538",
+      "added_datetime": "2026-06-27T10:47:24.846538"
+    },
+    {
+      "name": "iFixit: O Manual de Reparos Gratuito",
+      "url": "https://pt.ifixit.com/",
+      "domain": "pt.ifixit.com",
+      "date_added": "13427129861245453",
+      "added_datetime": "2026-06-28T11:17:41.245453"
+    },
+    {
+      "name": "Qwen Studio",
+      "url": "https://chat.qwen.ai/",
+      "domain": "chat.qwen.ai",
+      "date_added": "13427134642312608",
+      "added_datetime": "2026-06-28T12:37:22.312608"
+    },
+    {
+      "name": "SGA - Sistema de gestão do Aluno",
+      "url": "https://www.formacaomercadologica.com.br/treinamento/default.asp",
+      "domain": "www.formacaomercadologica.com.br",
+      "date_added": "13429321623843182",
+      "added_datetime": "2026-07-23T20:07:03.843182"
+    },
+    {
+      "name": "Get data - Jorge Augusto Magalhaes's Workspace",
+      "url": "https://jorgitolifenew-104107.postman.co/workspace/ab228d59-3c6f-44de-82e1-7c2f7e0e0a16/request/58039049-4c07b328-7eba-4f25-a2cf-db80a8456965?sideView=agentMode",
+      "domain": "jorgitolifenew-104107.postman.co",
+      "date_added": "13433278743584287",
+      "added_datetime": "2026-09-07T15:19:03.584287"
+    },
+    {
+      "name": "OpenAPI Design & Documentation Management Tool | Stoplight",
+      "url": "https://stoplight.io/",
+      "domain": "stoplight.io",
+      "date_added": "13433279413066386",
+      "added_datetime": "2026-09-07T15:30:13.066386"
+    },
+    {
+      "name": "What is API-first? The API-first Approach Explained | Postman",
+      "url": "https://www.postman.com/api-first/",
+      "domain": "www.postman.com",
+      "date_added": "13433279417034887",
+      "added_datetime": "2026-09-07T15:30:17.034887"
+    },
+    {
+      "name": "Escola Virtual Gov",
+      "url": "https://www.escolavirtual.gov.br/catalogo",
+      "domain": "www.escolavirtual.gov.br",
+      "date_added": "13433654227639087",
+      "added_datetime": "2026-09-11T23:37:07.639087"
+    },
+    {
+      "name": "Escola Virtual Gov",
+      "url": "https://www.escolavirtual.gov.br/programa/370",
+      "domain": "www.escolavirtual.gov.br",
+      "date_added": "13433654230824274",
+      "added_datetime": "2026-09-11T23:37:10.824274"
+    },
+    {
+      "name": "Escola Virtual Gov",
+      "url": "https://www.escolavirtual.gov.br/programa/367",
+      "domain": "www.escolavirtual.gov.br",
+      "date_added": "13433654233704092",
+      "added_datetime": "2026-09-11T23:37:13.704092"
+    },
+    {
+      "name": "Escola Virtual Gov",
+      "url": "https://www.escolavirtual.gov.br/programa/365",
+      "domain": "www.escolavirtual.gov.br",
+      "date_added": "13433654236088961",
+      "added_datetime": "2026-09-11T23:37:16.088961"
+    },
+    {
+      "name": "Escola Virtual Gov",
+      "url": "https://www.escolavirtual.gov.br/programa/313",
+      "domain": "www.escolavirtual.gov.br",
+      "date_added": "13433654239591340",
+      "added_datetime": "2026-09-11T23:37:19.591340"
+    },
+    {
+      "name": "Escola Virtual Gov",
+      "url": "https://www.escolavirtual.gov.br/notificacoes/2",
+      "domain": "www.escolavirtual.gov.br",
+      "date_added": "13433654242103769",
+      "added_datetime": "2026-09-11T23:37:22.103769"
+    },
+    {
+      "name": "Curso: IA - Aplicações no Governo Federal",
+      "url": "https://mooc41.escolavirtual.gov.br/course/view.php?id=28480#section-0",
+      "domain": "mooc41.escolavirtual.gov.br",
+      "date_added": "13433654253655256",
+      "added_datetime": "2026-09-11T23:37:33.655256"
+    },
+    {
+      "name": "GameTracker.com - Games",
+      "url": "https://www.gametracker.com/games/",
+      "domain": "www.gametracker.com",
+      "date_added": "13433925526575679",
+      "added_datetime": "2026-09-15T02:58:46.575679"
+    },
+    {
+      "name": "PK FILMES - O Melhor do Cinema",
+      "url": "https://www.filmesrave.online/",
+      "domain": "www.filmesrave.online",
+      "date_added": "13433961746581678",
+      "added_datetime": "2026-09-15T13:02:26.581678"
+    },
+    {
+      "name": "263.609 vagas de emprego em todo o Brasil",
+      "url": "https://www.empregos.com.br/vagas",
+      "domain": "www.empregos.com.br",
+      "date_added": "13434054252730090",
+      "added_datetime": "2026-09-16T14:44:12.730090"
+    },
+    {
+      "name": "19099 Vagas Remotas no Brasil | Setembro 2026 | Adzuna.com.br",
+      "url": "https://www.adzuna.com.br/search?remote_only=1",
+      "domain": "www.adzuna.com.br",
+      "date_added": "13434054256678025",
+      "added_datetime": "2026-09-16T14:44:16.678025"
+    },
+    {
+      "name": "Uncensored AI",
+      "url": "https://uncensored.ai/",
+      "domain": "uncensored.ai",
+      "date_added": "13434139038741949",
+      "added_datetime": "2026-09-17T14:17:18.741949"
+    },
+    {
+      "name": "visualising data structures and algorithms through animation - VisuAlgo",
+      "url": "https://visualgo.net/en",
+      "domain": "visualgo.net",
+      "date_added": "13434499930112420",
+      "added_datetime": "2026-09-21T18:32:10.112420"
+    },
+    {
+      "name": "Explore the Thinky Games database",
+      "url": "https://thinkygames.com/games/",
+      "domain": "thinkygames.com",
+      "date_added": "13434600505152724",
+      "added_datetime": "2026-09-22T22:28:25.152724"
+    },
+    {
+      "name": "CEDAC – Cursos Profissionalizantes e Supletivo",
+      "url": "https://www.cedac.com.br/",
+      "domain": "www.cedac.com.br",
+      "date_added": "13434923082956457",
+      "added_datetime": "2026-09-26T16:04:42.956457"
+    },
+    {
+      "name": "Educação Online",
+      "url": "https://www.sp.senai.br/unidade/online/",
+      "domain": "www.sp.senai.br",
+      "date_added": "13434923142103352",
+      "added_datetime": "2026-09-26T16:05:42.103352"
+    },
+    {
+      "name": "DeepLearning.AI",
+      "url": "https://www.deeplearning.ai/courses",
+      "domain": "www.deeplearning.ai",
+      "date_added": "13435138990683389",
+      "added_datetime": "2026-09-29T04:03:10.683389"
+    },
+    {
+      "name": "Claude Academy · Learn to work and build with Claude",
+      "url": "https://academy.claude.com/",
+      "domain": "academy.claude.com",
+      "date_added": "13435138993204075",
+      "added_datetime": "2026-09-29T04:03:13.204075"
+    },
+    {
+      "name": "Spaces - Hugging Face",
+      "url": "https://huggingface.co/spaces",
+      "domain": "huggingface.co",
+      "date_added": "13435138995683716",
+      "added_datetime": "2026-09-29T04:03:15.683716"
+    },
+    {
+      "name": "fast.ai—Making neural nets uncool again – fast.ai",
+      "url": "https://www.fast.ai/",
+      "domain": "www.fast.ai",
+      "date_added": "13435138998068548",
+      "added_datetime": "2026-09-29T04:03:18.068548"
+    },
+    {
+      "name": "Decks - AnkiWeb",
+      "url": "https://ankiweb.net/decks",
+      "domain": "ankiweb.net",
+      "date_added": "13435196833441385",
+      "added_datetime": "2026-09-29T20:07:13.441385"
+    },
+    {
+      "name": "Discover 1333 IT Ops Automation Workflows from the n8n's Community",
+      "url": "https://n8n.io/workflows/categories/it-ops/?utm_source=n8n_app&utm_medium=template_library&utm_instance=https://masterjorge.app.n8n.cloud/&utm_n8n_version=2.42.0&utm_awc=0&utm_user_role=Support&utm_instance_features=assistant",
+      "domain": "n8n.io",
+      "date_added": "13435204551416015",
+      "added_datetime": "2026-09-29T22:15:51.416015"
+    },
+    {
+      "name": "DrawSQL — Database Schema Diagram Tool for Developers & Teams",
+      "url": "https://drawsql.app/",
+      "domain": "drawsql.app",
+      "date_added": "13435667775131212",
+      "added_datetime": "2026-10-05T06:56:15.131212"
+    },
+    {
+      "name": "The SQL Murder Mystery",
+      "url": "https://mystery.knightlab.com/",
+      "domain": "mystery.knightlab.com",
+      "date_added": "13435667777021786",
+      "added_datetime": "2026-10-05T06:56:17.021786"
+    },
+    {
+      "name": "SQLBolt - Learn SQL - Introduction to SQL",
+      "url": "https://sqlbolt.com/",
+      "domain": "sqlbolt.com",
+      "date_added": "13435667793995430",
+      "added_datetime": "2026-10-05T06:56:33.995430"
+    },
+    {
+      "name": "Learn to Code Free Online - Python, JS & 15+ | Coddy.Tech",
+      "url": "https://coddy.tech/",
+      "domain": "coddy.tech",
+      "date_added": "13435668066202613",
+      "added_datetime": "2026-10-05T07:01:06.202613"
+    },
+    {
+      "name": "Files – CodePen",
+      "url": "https://blog.codepen.io/docs/pens/files/",
+      "domain": "blog.codepen.io",
+      "date_added": "13435669998068062",
+      "added_datetime": "2026-10-05T07:33:18.068062"
+    },
+    {
+      "name": "Aprendendo desenvolvimento web | MDN",
+      "url": "https://developer.mozilla.org/pt-BR/docs/Learn_web_development?utm_source=chatgpt.com",
+      "domain": "developer.mozilla.org",
+      "date_added": "13435737384422336",
+      "added_datetime": "2026-10-06T02:16:24.422336"
+    },
+    {
+      "name": "CS50x 2026",
+      "url": "https://cs50.harvard.edu/x/?utm_source=chatgpt.com",
+      "domain": "cs50.harvard.edu",
+      "date_added": "13435738633868933",
+      "added_datetime": "2026-10-06T02:37:13.868933"
+    },
+    {
+      "name": "Backend Developer Course: Learn Backend Online | Scrimba",
+      "url": "https://scrimba.com/backend-path-c0tbi0l98f",
+      "domain": "scrimba.com",
+      "date_added": "13435738761756665",
+      "added_datetime": "2026-10-06T02:39:21.756665"
+    },
+    {
+      "name": "Good First Issue: Make your first open-source contribution",
+      "url": "https://goodfirstissue.dev/",
+      "domain": "goodfirstissue.dev",
+      "date_added": "13435828833592152",
+      "added_datetime": "2026-10-07T03:40:33.592152"
+    },
+    {
+      "name": "02 - Modulos e funcoes - Drive de Pobre",
+      "url": "https://drivedepobre.com/tecnologia-e-programacao/6o6tb4FJ4Aoc",
+      "domain": "drivedepobre.com",
+      "date_added": "13435837414366668",
+      "added_datetime": "2026-10-07T06:03:34.366668"
+    },
+    {
+      "name": "03 - Lista, lacos e excecoes - Drive de Pobre",
+      "url": "https://drivedepobre.com/tecnologia-e-programacao/hoYQgFTA5OZI",
+      "domain": "drivedepobre.com",
+      "date_added": "13435837416961611",
+      "added_datetime": "2026-10-07T06:03:36.961611"
+    },
+    {
+      "name": "04 - Dicionarios - Drive de Pobre",
+      "url": "https://drivedepobre.com/tecnologia-e-programacao/TFkyOpbZrTch",
+      "domain": "drivedepobre.com",
+      "date_added": "13435837418752164",
+      "added_datetime": "2026-10-07T06:03:38.752164"
+    },
+    {
+      "name": "05 - Consolidando os conhecimentos - Drive de Pobre",
+      "url": "https://drivedepobre.com/tecnologia-e-programacao/EFVQPL252-8F",
+      "domain": "drivedepobre.com",
+      "date_added": "13435837420273307",
+      "added_datetime": "2026-10-07T06:03:40.273307"
+    },
+    {
+      "name": "",
+      "url": "https://github.com/agenda-tech-brasil/agenda-tech-brasil",
+      "domain": "github.com",
+      "date_added": "13435849703422319",
+      "added_datetime": "2026-10-07T09:28:23.422319"
+    },
+    {
+      "name": "Free for Developers",
+      "url": "https://free-for.dev/",
+      "domain": "free-for.dev",
+      "date_added": "13435849707808277",
+      "added_datetime": "2026-10-07T09:28:27.808277"
+    },
+    {
+      "name": "project-based-learning · GitHub Topics",
+      "url": "https://github.com/topics/project-based-learning",
+      "domain": "github.com",
+      "date_added": "13435849716528527",
+      "added_datetime": "2026-10-07T09:28:36.528527"
+    },
+    {
+      "name": "practical-tutorials/project-based-learning: Curated list of project-based tutorials",
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "domain": "github.com",
+      "date_added": "13435849721102722",
+      "added_datetime": "2026-10-07T09:28:41.102722"
+    },
+    {
+      "name": "project-based-learning · GitHub Topics",
+      "url": "https://github.com/topics/project-based-learning?l=dart%2F1000&o=desc&s=updated",
+      "domain": "github.com",
+      "date_added": "13435849814703618",
+      "added_datetime": "2026-10-07T09:30:14.703618"
+    },
+    {
+      "name": "OmniRoute by Cheaper Inference | #1 roteador de IA open source",
+      "url": "https://www.omniroute.online/pt-BR/",
+      "domain": "www.omniroute.online",
+      "date_added": "13436111440905962",
+      "added_datetime": "2026-10-10T10:10:40.905962"
+    },
+    {
+      "name": "Dexter: Sangue Novo (Dublado / Legendado) - Lista de Episódios",
+      "url": "https://redecanais.africa/dexter-sangue-novo-dublado-legendado-lista-de-episodios_90a1c5d03.html",
+      "domain": "redecanais.africa",
+      "date_added": "13363931296077652",
+      "added_datetime": "2024-06-27T00:08:16.077652"
+    },
+    {
+      "name": "Lista Negra / The Blacklist (Dublado / Legendado) - Lista de Episódios",
+      "url": "https://redecanais.dev/lista-negra-the-blacklist-dublado-legendado-lista-de-episodios_30b16f302.html",
+      "domain": "redecanais.dev",
+      "date_added": "13364081037593601",
+      "added_datetime": "2024-06-28T17:43:57.593601"
+    },
+    {
+      "name": "Gravity Falls: Um Verão de Mistérios (Dublado) - Lista de Episódios",
+      "url": "https://redecanais.dev/gravity-falls-um-verao-de-misterios-dublado-lista-de-episodios_dcbcc7a02.html",
+      "domain": "redecanais.dev",
+      "date_added": "13364081327283795",
+      "added_datetime": "2024-06-28T17:48:47.283795"
+    },
+    {
+      "name": "Lie To Me (Dublado / Legendado) - Lista de Episódios",
+      "url": "https://redecanais.africa/lie-to-me-dublado-legendado-lista-de-episodios_045b316e8.html",
+      "domain": "redecanais.africa",
+      "date_added": "13364297713839054",
+      "added_datetime": "2024-07-01T05:55:13.839054"
+    },
+    {
+      "name": "Hannibal (Dublado / Legendado) - Lista de Episódios",
+      "url": "https://redecanais.africa/hannibal-dublado-legendado-lista-de-episodios_2ddccc5a5.html",
+      "domain": "redecanais.africa",
+      "date_added": "13364300529348280",
+      "added_datetime": "2024-07-01T06:42:09.348280"
+    },
+    {
+      "name": "Arquivo X / The X-Files (Dublado) - Lista de Episódios",
+      "url": "https://redecanais.africa/arquivo-x-the-x-files-dublado-lista-de-episodios_a8cc99ff6.html",
+      "domain": "redecanais.africa",
+      "date_added": "13364555612532150",
+      "added_datetime": "2024-07-04T05:33:32.532150"
+    },
+    {
+      "name": "Sherlock (Dublado) - Lista de Episódios",
+      "url": "https://redecanais.africa/sherlock-dublado-lista-completa-de-episodios_e01755e88.html",
+      "domain": "redecanais.africa",
+      "date_added": "13364610251521718",
+      "added_datetime": "2024-07-04T20:44:11.521718"
+    },
+    {
+      "name": "Assistir One Piece - Episódio 255 - AnimeFire",
+      "url": "https://animefire.plus/animes/one-piece-dublado/255",
+      "domain": "animefire.plus",
+      "date_added": "13365083509729379",
+      "added_datetime": "2024-07-10T08:11:49.729379"
+    },
+    {
+      "name": "Vibecode - AI Mobile & Web App Builder",
+      "url": "https://www.vibecodeapp.com/",
+      "domain": "www.vibecodeapp.com",
+      "date_added": "13419435716337059",
+      "added_datetime": "2026-03-31T10:01:56.337059"
+    },
+    {
+      "name": "Home - Replit",
+      "url": "https://replit.com/~",
+      "domain": "replit.com",
+      "date_added": "13419435720213534",
+      "added_datetime": "2026-03-31T10:02:00.213534"
+    },
+    {
+      "name": "Claude",
+      "url": "https://claude.ai/onboarding",
+      "domain": "claude.ai",
+      "date_added": "13419435722812255",
+      "added_datetime": "2026-03-31T10:02:02.812255"
+    },
+    {
+      "name": "Lovable",
+      "url": "https://lovable.dev/getting-started?redirect=%2Fdashboard",
+      "domain": "lovable.dev",
+      "date_added": "13419435855288799",
+      "added_datetime": "2026-03-31T10:04:15.288799"
+    },
+    {
+      "name": "😱 CURSOS ONLINE GRATUITOS DE INFORMÁTICA E COMPUTAÇÃO DA IBM | Mari Rel - YouTube",
+      "url": "https://www.youtube.com/watch?v=DbiZu7EL0ME",
+      "domain": "www.youtube.com",
+      "date_added": "13419650957228076",
+      "added_datetime": "2026-04-02T21:49:17.228076"
+    },
+    {
+      "name": "Chorume Club | O maior boteco de tecnologia",
+      "url": "https://chorume.club/livros/",
+      "domain": "chorume.club",
+      "date_added": "13419723284593209",
+      "added_datetime": "2026-04-03T17:54:44.593209"
+    },
+    {
+      "name": "GitHub - huscarldev/clowclow: Disponibilizar o código Claude para IA pydantic · GitHub",
+      "url": "https://github.com/huscarldev/clowclow",
+      "domain": "github.com",
+      "date_added": "13419726016038928",
+      "added_datetime": "2026-04-03T18:40:16.038928"
+    },
+    {
+      "name": "Deb GPT | Deborah Folloni | Substack",
+      "url": "https://dfolloni.substack.com/",
+      "domain": "dfolloni.substack.com",
+      "date_added": "13419804581479237",
+      "added_datetime": "2026-04-04T16:29:41.479237"
+    },
+    {
+      "name": "PROMPTS LANDINGPAGE CLAUDE CODE - @FRANKLIM.GUI",
+      "url": "https://large-amber-34e.notion.site/PROMPTS-LANDINGPAGE-CLAUDE-CODE-FRANKLIM-GUI-314a3662d4618088b79be80041f6c393",
+      "domain": "large-amber-34e.notion.site",
+      "date_added": "13419960633799113",
+      "added_datetime": "2026-04-06T11:50:33.799113"
+    },
+    {
+      "name": "claude-skills · GitHub Topics",
+      "url": "https://github.com/topics/claude-skills",
+      "domain": "github.com",
+      "date_added": "13419989218738675",
+      "added_datetime": "2026-04-06T19:46:58.738675"
+    },
+    {
+      "name": "Prompts de IA · AIPRM",
+      "url": "https://www.aiprm.com/pt-br/prompts/",
+      "domain": "www.aiprm.com",
+      "date_added": "13420057235077271",
+      "added_datetime": "2026-04-07T14:40:35.077271"
+    },
+    {
+      "name": "Applications Prompts · AIPRM",
+      "url": "https://www.aiprm.com/pt-br/prompts/applications/",
+      "domain": "www.aiprm.com",
+      "date_added": "13420062369336618",
+      "added_datetime": "2026-04-07T16:06:09.336618"
+    },
+    {
+      "name": "openrouter.ai/sign-in?redirect_url=https%3A%2F%2Fopenrouter.ai%2Fworkspaces%2Fdefault%2Fkeys",
+      "url": "https://openrouter.ai/sign-in?redirect_url=https%3A%2F%2Fopenrouter.ai%2Fworkspaces%2Fdefault%2Fkeys",
+      "domain": "openrouter.ai",
+      "date_added": "13420230682640119",
+      "added_datetime": "2026-04-09T14:51:22.640119"
+    },
+    {
+      "name": "Cinderia Free Download (v0.6.1d) » SteamUnlocked",
+      "url": "https://steamunlocked.org/cinderia-free-download/",
+      "domain": "steamunlocked.org",
+      "date_added": "13420238300037097",
+      "added_datetime": "2026-04-09T16:58:20.037097"
+    },
+    {
+      "name": "Slay the Spire 2 Free Download (v0.99.1) » SteamUnlocked",
+      "url": "https://steamunlocked.org/slay-the-spire-2-free-download/",
+      "domain": "steamunlocked.org",
+      "date_added": "13420238305060366",
+      "added_datetime": "2026-04-09T16:58:25.060366"
+    },
+    {
+      "name": "Hytale Free Download (v2026.03.26) » SteamUnlocked",
+      "url": "https://steamunlocked.org/hytale-free-download/",
+      "domain": "steamunlocked.org",
+      "date_added": "13420238310341989",
+      "added_datetime": "2026-04-09T16:58:30.341989"
+    },
+    {
+      "name": "Beast Mode v3",
+      "url": "https://gist.github.com/nborwankar/31865ad2dfc217c742ad62fc8c59918f",
+      "domain": "gist.github.com",
+      "date_added": "13420240646243448",
+      "added_datetime": "2026-04-09T17:37:26.243448"
+    },
+    {
+      "name": "Dribbble - Discover the World’s Top Designers & Creative Professionals",
+      "url": "https://dribbble.com/",
+      "domain": "dribbble.com",
+      "date_added": "13420313527272856",
+      "added_datetime": "2026-04-10T13:52:07.272856"
+    },
+    {
+      "name": "API Keys | Settings | OpenRouter",
+      "url": "https://openrouter.ai/workspaces/default/keys",
+      "domain": "openrouter.ai",
+      "date_added": "13420313531645195",
+      "added_datetime": "2026-04-10T13:52:11.645195"
+    },
+    {
+      "name": "Prompts de IA: modelos prontos para rotinas corporativas",
+      "url": "https://zeev.it/blog/prompts-de-ia/",
+      "domain": "zeev.it",
+      "date_added": "13420313539406056",
+      "added_datetime": "2026-04-10T13:52:19.406056"
+    },
+    {
+      "name": "O SaaS dela ficou mais complexo que o sistema do Nubank! - YouTube",
+      "url": "https://www.youtube.com/watch?v=At0_UzDoiyA",
+      "domain": "www.youtube.com",
+      "date_added": "13420574305156763",
+      "added_datetime": "2026-04-13T14:18:25.156763"
+    },
+    {
+      "name": "Escola Virtual Gov",
+      "url": "https://www.escolavirtual.gov.br/programa/google/2",
+      "domain": "www.escolavirtual.gov.br",
+      "date_added": "13420933079463541",
+      "added_datetime": "2026-04-17T17:57:59.463541"
+    },
+    {
+      "name": "Algorithm SM-18 - supermemo.guru",
+      "url": "https://supermemo.guru/wiki/Algorithm_SM-18",
+      "domain": "supermemo.guru",
+      "date_added": "13421003714135421",
+      "added_datetime": "2026-04-18T13:35:14.135421"
+    },
+    {
+      "name": "onecompiler.com/courses/c/introduction-to-c",
+      "url": "https://onecompiler.com/courses/c/introduction-to-c",
+      "domain": "onecompiler.com",
+      "date_added": "13421023875967176",
+      "added_datetime": "2026-04-18T19:11:15.967176"
+    },
+    {
+      "name": "Metal Slug Collection, 1,2,3,4,5,6,7 & X (PC) file - ModDB",
+      "url": "https://www.moddb.com/downloads/metal-slug-collection-1234567-x-pc",
+      "domain": "www.moddb.com",
+      "date_added": "13421259478699631",
+      "added_datetime": "2026-04-21T12:37:58.699631"
+    },
+    {
+      "name": "Contra Anniversary Collection Free Download » GOG Unlocked",
+      "url": "https://gogunlocked.com/1-contra-anniversary-collection-free-download/",
+      "domain": "gogunlocked.com",
+      "date_added": "13421259579694597",
+      "added_datetime": "2026-04-21T12:39:39.694597"
+    },
+    {
+      "name": "Games using MonoGame Engine on Steam · SteamDB",
+      "url": "https://steamdb.info/tech/Engine/MonoGame/",
+      "domain": "steamdb.info",
+      "date_added": "13421259765540221",
+      "added_datetime": "2026-04-21T12:42:45.540221"
+    },
+    {
+      "name": "Meu Guia Definitivo de Otimização para Windows 11 v2 : r/Argaming",
+      "url": "https://www.reddit.com/r/Argaming/comments/1k69bqw/mi_gu%C3%ADa_definitiva_de_optimizaci%C3%B3n_para_windows/?tl=pt-br",
+      "domain": "www.reddit.com",
+      "date_added": "13421291037923904",
+      "added_datetime": "2026-04-21T21:23:57.923904"
+    },
+    {
+      "name": "ChrisTitusTech/winutil: Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
+      "url": "https://github.com/ChrisTitusTech/winutil",
+      "domain": "github.com",
+      "date_added": "13421291040753927",
+      "added_datetime": "2026-04-21T21:24:00.753927"
+    },
+    {
+      "name": "Página da Vaga | Formação de Mecânicos(as) de Manutenção de Aeronaves",
+      "url": "https://embraer.gupy.io/jobs/10265677?jobBoardSource=gupy_public_page",
+      "domain": "embraer.gupy.io",
+      "date_added": "13421293842593252",
+      "added_datetime": "2026-04-21T22:10:42.593252"
+    },
+    {
+      "name": "Express - Node.js web application framework",
+      "url": "https://expressjs.com/",
+      "domain": "expressjs.com",
+      "date_added": "13421366855125340",
+      "added_datetime": "2026-04-22T18:27:35.125340"
+    },
+    {
+      "name": "Welcome | DBeaver Documentation",
+      "url": "https://dbeaver.com/docs/dbeaver/#where-to-start",
+      "domain": "dbeaver.com",
+      "date_added": "13421369788291973",
+      "added_datetime": "2026-04-22T19:16:28.291973"
+    },
+    {
+      "name": "First steps | DBeaver Documentation",
+      "url": "https://dbeaver.com/docs/dbeaver/Getting-started/#introduction",
+      "domain": "dbeaver.com",
+      "date_added": "13421369789895554",
+      "added_datetime": "2026-04-22T19:16:29.895554"
+    },
+    {
+      "name": "Google Colab",
+      "url": "https://colab.research.google.com/drive/12OzJ3J1MXhGDqSjoUXKFnGiW7sKWgR81#scrollTo=DbuQmoBjeNk5",
+      "domain": "colab.research.google.com",
+      "date_added": "13421369800006750",
+      "added_datetime": "2026-04-22T19:16:40.006750"
+    },
+    {
+      "name": "Kaggle: Your Home for Data Science",
+      "url": "https://www.kaggle.com/",
+      "domain": "www.kaggle.com",
+      "date_added": "13421369805416564",
+      "added_datetime": "2026-04-22T19:16:45.416564"
+    },
+    {
+      "name": "TypeScript - Stack Overflow",
+      "url": "https://stackoverflow.com/ai-assist/chat/487ba0e2-b65b-4053-a8ed-808afb5292e2",
+      "domain": "stackoverflow.com",
+      "date_added": "13421369807343156",
+      "added_datetime": "2026-04-22T19:16:47.343156"
+    },
+    {
+      "name": "Como fazer IA",
+      "url": "https://chatgpt.com/c/69e8d029-c7ec-83e9-ad08-065632f8e3d1",
+      "domain": "chatgpt.com",
+      "date_added": "13421369810395403",
+      "added_datetime": "2026-04-22T19:16:50.395403"
+    },
+    {
+      "name": "Guia para Criar Inteligência Artificial - Google Gemini",
+      "url": "https://gemini.google.com/app/f02dcb8bbe60b415",
+      "domain": "gemini.google.com",
+      "date_added": "13421369814248076",
+      "added_datetime": "2026-04-22T19:16:54.248076"
+    },
+    {
+      "name": "Stax",
+      "url": "https://stax.withgoogle.com/projects",
+      "domain": "stax.withgoogle.com",
+      "date_added": "13421410636624063",
+      "added_datetime": "2026-04-23T06:37:16.624063"
+    },
+    {
+      "name": "Cursos – AvançaTech",
+      "url": "https://avancatech-prefeiturasp.itinovacao.org.br/cursos/",
+      "domain": "avancatech-prefeiturasp.itinovacao.org.br",
+      "date_added": "13421516499840310",
+      "added_datetime": "2026-04-24T12:01:39.840310"
+    },
+    {
+      "name": "O Cate - Curso: Banco de dados relacional",
+      "url": "https://cate.prefeitura.sp.gov.br/cursos/tecnologia/curso-bando-de-dados-relacional/",
+      "domain": "cate.prefeitura.sp.gov.br",
+      "date_added": "13421517263257888",
+      "added_datetime": "2026-04-24T12:14:23.257888"
+    },
+    {
+      "name": "O Cate - Inspiração O que é a nuvem AWS?",
+      "url": "https://cate.prefeitura.sp.gov.br/cursos/tecnologia/o-que-e-a-nuvem-aws/",
+      "domain": "cate.prefeitura.sp.gov.br",
+      "date_added": "13421517266201764",
+      "added_datetime": "2026-04-24T12:14:26.201764"
+    },
+    {
+      "name": "O Cate - Cursos de desenvolvimento de sites, softwares e jogos no projeto Digital ODS",
+      "url": "https://cate.prefeitura.sp.gov.br/cursos/tecnologia/cursos-de-desenvolvimento-de-sites-softwares-e-jogos-no-projeto-digital-ods/",
+      "domain": "cate.prefeitura.sp.gov.br",
+      "date_added": "13421517268291604",
+      "added_datetime": "2026-04-24T12:14:28.291604"
+    },
+    {
+      "name": "Lógica de programação, front-end e back-end: conheça os novos cursos de Tecnologia",
+      "url": "https://cate.prefeitura.sp.gov.br/cursos/tecnologia/logica-de-programacao-front-end-e-back-end-conheca-os-novos-cursos-de-tecnologia/",
+      "domain": "cate.prefeitura.sp.gov.br",
+      "date_added": "13421517270403277",
+      "added_datetime": "2026-04-24T12:14:30.403277"
+    },
+    {
+      "name": "O Cate - Curso Faça cursos de capacitação digital oferecidos pela Microsoft na Escola do Trabalhador 4.0",
+      "url": "https://cate.prefeitura.sp.gov.br/cursos/tecnologia/trilhas-de-capacitacao-digital-microsoft/",
+      "domain": "cate.prefeitura.sp.gov.br",
+      "date_added": "13421517292495634",
+      "added_datetime": "2026-04-24T12:14:52.495634"
+    },
+    {
+      "name": "aaaaaaaaaaaaaaa",
+      "url": "https://cate.prefeitura.sp.gov.br/cursos/tecnologia/curso-fundamentos-de-ia-no-azure/",
+      "domain": "cate.prefeitura.sp.gov.br",
+      "date_added": "13421517317409554",
+      "added_datetime": "2026-04-24T12:15:17.409554"
+    },
+    {
+      "name": "O Cate - Curso | Bootcamp de IA generativa da AWS",
+      "url": "https://cate.prefeitura.sp.gov.br/cursos/tecnologia/curso-bootcamp-ia-generativa-da-aws/",
+      "domain": "cate.prefeitura.sp.gov.br",
+      "date_added": "13421517368283344",
+      "added_datetime": "2026-04-24T12:16:08.283344"
+    },
+    {
+      "name": "Codefinity",
+      "url": "https://codefinity.com/get-started/spa/v8_new_brl?utm_source=google&utm_medium=cpc&utm_campaign=21415070126&utm_content=162332657925&utm_term=freecodecamp&dki=Freecodecamp&ad_id=720198247386&gad_source=1&gad_campaignid=21415070126&gbraid=0AAAAABTeUgSPgh2mHT6WjdjX-l2rJFdC9&gclid=Cj0KCQjwkrzPBhCqARIsAJN460n482q0gdlTsAjG29DtOUpp-U1DSgdb3xd1pToOgiBHDP5B3ngslNYaAupTEALw_wcB",
+      "domain": "codefinity.com",
+      "date_added": "13421793820388486",
+      "added_datetime": "2026-04-27T17:03:40.388486"
+    },
+    {
+      "name": "Processo Seletivo Mercado Livre",
+      "url": "https://survey.mercadolibre.com/jfe/form/SV_eVeWF6EiFnS3Zki?gad_source=1&gad_campaignid=23468139077&gbraid=0AAAABBIc6ppOsqevou51koMXuY9puGBvq&gclid=Cj0KCQjw2MbPBhCSARIsAP3jP9wmanrOQEnaoyQglq3ZNnkyRKR37Sihyc65pc8sfhpEwjYW-ZJZS0AaAk2WEALw_wcB",
+      "domain": "survey.mercadolibre.com",
+      "date_added": "13421947752126507",
+      "added_datetime": "2026-04-29T11:49:12.126507"
+    },
+    {
+      "name": "Encontre vagas de trabalho 100% remoto com a Remotar",
+      "url": "https://remotar.com.br/",
+      "domain": "remotar.com.br",
+      "date_added": "13422045141104417",
+      "added_datetime": "2026-04-30T14:52:21.104417"
+    },
+    {
+      "name": "trampos.co | perfil do candidato",
+      "url": "https://trampos.co/candidato#/vagas",
+      "domain": "trampos.co",
+      "date_added": "13422045164731068",
+      "added_datetime": "2026-04-30T14:52:44.731068"
+    },
+    {
+      "name": "CC50 - O Curso de Ciência da Computação de Harvard no Brasil | Fundação Estudar",
+      "url": "https://ead.estudar.org.br/c/cc50-o-curso-de-ciencia-da-computacao-de-harvard-no-brasil/sections/196909/lessons/733389",
+      "domain": "ead.estudar.org.br",
+      "date_added": "13422053008022210",
+      "added_datetime": "2026-04-30T17:03:28.022210"
+    },
+    {
+      "name": "OldServers — Nuevos servers, viejos players",
+      "url": "https://oldservers.com.ar/",
+      "domain": "oldservers.com.ar",
+      "date_added": "13428338845711180",
+      "added_datetime": "2026-07-12T11:07:25.711180"
+    },
+    {
+      "name": "Criar Curso com IA Grátis - Do Tema ou PDF ao Curso Completo",
+      "url": "https://www.coursebox.ai/pt",
+      "domain": "www.coursebox.ai",
+      "date_added": "13429009303835420",
+      "added_datetime": "2026-07-20T05:21:43.835420"
+    },
+    {
+      "name": "🚀 Criar cursos com IA em minutos — automatize tudo | isEazy",
+      "url": "https://www.iseazy.com/br/author/funcionalidades/criacao-de-curso-ia/",
+      "domain": "www.iseazy.com",
+      "date_added": "13429009306985366",
+      "added_datetime": "2026-07-20T05:21:46.985366"
+    },
+    {
+      "name": "Crie cursos on-line gratuitamente | Genially",
+      "url": "https://genially.com/pt-br/criar/cursos-on-line/",
+      "domain": "genially.com",
+      "date_added": "13429009311166402",
+      "added_datetime": "2026-07-20T05:21:51.166402"
+    },
+    {
+      "name": "Gerador de cursos de e-learning com IA",
+      "url": "https://www.easygenerator.com/br/funcionalidades/easyai/",
+      "domain": "www.easygenerator.com",
+      "date_added": "13429009313911420",
+      "added_datetime": "2026-07-20T05:21:53.911420"
+    },
+    {
+      "name": "SGA | Login do Candidato",
+      "url": "https://www.formacaomercadologica.com.br/treinamento/candidato.asp",
+      "domain": "www.formacaomercadologica.com.br",
+      "date_added": "13429302716610417",
+      "added_datetime": "2026-07-23T14:51:56.610417"
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://chatgpt.com/",
+      "domain": "chatgpt.com",
+      "date_added": "13429317208825370",
+      "added_datetime": "2026-07-23T18:53:28.825370"
+    },
+    {
+      "name": "Eforce Mobilidade",
+      "url": "https://eforce.mobi/",
+      "domain": "eforce.mobi",
+      "date_added": "13430179015847808",
+      "added_datetime": "2026-08-02T18:16:55.847808"
+    },
+    {
+      "name": "Cadastre-se | Online Cursos Gratuitos | + 5000 Cursos Grátis",
+      "url": "https://onlinecursosgratuitos.com.br/login/cadastro",
+      "domain": "onlinecursosgratuitos.com.br",
+      "date_added": "13430179020388237",
+      "added_datetime": "2026-08-02T18:17:00.388237"
+    },
+    {
+      "name": "Condução de Veículos Elétricos e Híbridos: novo curso gratuito | SEST SENAT",
+      "url": "https://digital.sestsenat.org.br/blog/curso-veiculos-eletricos-hibridos",
+      "domain": "digital.sestsenat.org.br",
+      "date_added": "13430179021684110",
+      "added_datetime": "2026-08-02T18:17:01.684110"
+    },
+    {
+      "name": "Escola Virtual Gov",
+      "url": "https://www.escolavirtual.gov.br/catalogo?query=&carga_horaria=&temas%5B%5D=57",
+      "domain": "www.escolavirtual.gov.br",
+      "date_added": "13433123679997040",
+      "added_datetime": "2026-09-05T20:14:39.997040"
+    },
+    {
+      "name": "Escola Virtual Gov",
+      "url": "https://www.escolavirtual.gov.br/curso/1544",
+      "domain": "www.escolavirtual.gov.br",
+      "date_added": "13433123706312864",
+      "added_datetime": "2026-09-05T20:15:06.312864"
+    },
+    {
+      "name": "Escola Virtual Gov",
+      "url": "https://www.escolavirtual.gov.br/curso/1450",
+      "domain": "www.escolavirtual.gov.br",
+      "date_added": "13433123711576609",
+      "added_datetime": "2026-09-05T20:15:11.576609"
+    },
+    {
+      "name": "Escola Virtual Gov",
+      "url": "https://www.escolavirtual.gov.br/curso/1449",
+      "domain": "www.escolavirtual.gov.br",
+      "date_added": "13433123713721596",
+      "added_datetime": "2026-09-05T20:15:13.721596"
+    },
+    {
+      "name": "Escola Virtual Gov",
+      "url": "https://www.escolavirtual.gov.br/curso/1447",
+      "domain": "www.escolavirtual.gov.br",
+      "date_added": "13433123717069447",
+      "added_datetime": "2026-09-05T20:15:17.069447"
+    },
+    {
+      "name": "Escola Virtual Gov",
+      "url": "https://www.escolavirtual.gov.br/curso/1446",
+      "domain": "www.escolavirtual.gov.br",
+      "date_added": "13433123718969125",
+      "added_datetime": "2026-09-05T20:15:18.969125"
+    },
+    {
+      "name": "Escola Virtual Gov",
+      "url": "https://www.escolavirtual.gov.br/curso/1442",
+      "domain": "www.escolavirtual.gov.br",
+      "date_added": "13433123721065272",
+      "added_datetime": "2026-09-05T20:15:21.065272"
+    },
+    {
+      "name": "Escola Virtual Gov",
+      "url": "https://www.escolavirtual.gov.br/curso/1439",
+      "domain": "www.escolavirtual.gov.br",
+      "date_added": "13433123723721087",
+      "added_datetime": "2026-09-05T20:15:23.721087"
+    },
+    {
+      "name": "Escola Virtual Gov",
+      "url": "https://www.escolavirtual.gov.br/curso/1432",
+      "domain": "www.escolavirtual.gov.br",
+      "date_added": "13433123726840778",
+      "added_datetime": "2026-09-05T20:15:26.840778"
+    },
+    {
+      "name": "Escola Virtual Gov",
+      "url": "https://www.escolavirtual.gov.br/curso/1437",
+      "domain": "www.escolavirtual.gov.br",
+      "date_added": "13433123729352179",
+      "added_datetime": "2026-09-05T20:15:29.352179"
+    },
+    {
+      "name": "Escola Virtual Gov",
+      "url": "https://www.escolavirtual.gov.br/curso/1422",
+      "domain": "www.escolavirtual.gov.br",
+      "date_added": "13433123731962936",
+      "added_datetime": "2026-09-05T20:15:31.962936"
+    },
+    {
+      "name": "Escola Virtual Gov",
+      "url": "https://www.escolavirtual.gov.br/curso/1374",
+      "domain": "www.escolavirtual.gov.br",
+      "date_added": "13433123734233271",
+      "added_datetime": "2026-09-05T20:15:34.233271"
+    },
+    {
+      "name": "Escola Virtual Gov",
+      "url": "https://www.escolavirtual.gov.br/curso/1376",
+      "domain": "www.escolavirtual.gov.br",
+      "date_added": "13433123736584490",
+      "added_datetime": "2026-09-05T20:15:36.584490"
+    },
+    {
+      "name": "Escola Virtual Gov",
+      "url": "https://www.escolavirtual.gov.br/curso/1375",
+      "domain": "www.escolavirtual.gov.br",
+      "date_added": "13433123738569070",
+      "added_datetime": "2026-09-05T20:15:38.569070"
+    },
+    {
+      "name": "Catalog | KNIME",
+      "url": "https://knime.learnupon.com/catalog?src=knimeappmodernui&srcStartups=2-4",
+      "domain": "knime.learnupon.com",
+      "date_added": "13433181023456950",
+      "added_datetime": "2026-09-06T12:10:23.456950"
+    },
+    {
+      "name": "dados_classificacao | - Turma SET/2026: Biblioteca",
+      "url": "https://mooc41.escolavirtual.gov.br/mod/page/view.php?id=452786",
+      "domain": "mooc41.escolavirtual.gov.br",
+      "date_added": "13433185444785581",
+      "added_datetime": "2026-09-06T13:24:04.785581"
+    }
+  ]
+}

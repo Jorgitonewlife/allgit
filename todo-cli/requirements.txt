@@ -1,0 +1,9 @@
+# Dependências de runtime: NENHUMA (apenas stdlib Python 3.10+)
+# Este projeto usa apenas: dataclasses, enum, json, pathlib, argparse, uuid, datetime, typing
+
+# Dependências de desenvolvimento (instale com: pip install -r requirements-dev.txt)
+# pytest>=7.4
+# pytest-cov>=4.1
+# ruff>=0.1
+# black>=23.0
+# mypy>=1.5

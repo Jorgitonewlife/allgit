@@ -1,0 +1,5 @@
+id,title,description,status,priority,due_date,tags,created_at,updated_at,completed_at
+73f5bed5,Estudar Python,Fazer exercícios de lista e dict,pending,medium,,,2026-10-07T07:29:28.335718,2026-10-07T07:29:28.335718,
+a9b4a788,Estudar Python Avancado,Fazer exercícios de lista e dict,in_progress,high,2026-10-15T00:00:00,,2026-10-07T07:31:30.812049,2026-10-07T07:57:12.224450,
+09a75e34,Tarefa com prioridade alta,,pending,high,2026-12-31T00:00:00,"trabalho,urgente",2026-10-07T07:55:40.497913,2026-10-07T07:55:40.497913,
+03aa2b3b,Tarefa com prioridade alta,,pending,high,2026-12-31T00:00:00,,2026-10-07T07:56:04.348029,2026-10-07T07:57:40.675067,

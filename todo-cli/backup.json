@@ -1,0 +1,80 @@
+[
+  {
+    "id": "36ad3cad",
+    "title": "Testar o CLI",
+    "description": "",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2026-12-31T00:00:00",
+    "tags": [
+      "demo",
+      "teste"
+    ],
+    "created_at": "2026-10-07T10:14:53.838303",
+    "updated_at": "2026-10-07T10:14:53.838303",
+    "completed_at": null
+  },
+  {
+    "id": "ae0d1af2",
+    "title": "Teste sem unicode",
+    "description": "",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": null,
+    "tags": [],
+    "created_at": "2026-10-07T09:09:07.789139",
+    "updated_at": "2026-10-07T09:09:07.789139",
+    "completed_at": null
+  },
+  {
+    "id": "03aa2b3b",
+    "title": "Tarefa com prioridade alta",
+    "description": "",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2026-12-31T00:00:00",
+    "tags": [],
+    "created_at": "2026-10-07T07:56:04.348029",
+    "updated_at": "2026-10-07T07:57:40.675067",
+    "completed_at": null
+  },
+  {
+    "id": "a9b4a788",
+    "title": "Estudar Python Avancado",
+    "description": "Fazer exercícios de lista e dict",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2026-10-15T00:00:00",
+    "tags": [],
+    "created_at": "2026-10-07T07:31:30.812049",
+    "updated_at": "2026-10-07T07:57:12.224450",
+    "completed_at": null
+  },
+  {
+    "id": "09a75e34",
+    "title": "Tarefa com prioridade alta",
+    "description": "",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2026-12-31T00:00:00",
+    "tags": [
+      "trabalho",
+      "urgente"
+    ],
+    "created_at": "2026-10-07T07:55:40.497913",
+    "updated_at": "2026-10-07T07:55:40.497913",
+    "completed_at": null
+  },
+  {
+    "id": "73f5bed5",
+    "title": "Estudar Python",
+    "description": "Fazer exercícios de lista e dict",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": null,
+    "tags": [],
+    "created_at": "2026-10-07T07:29:28.335718",
+    "updated_at": "2026-10-07T07:29:28.335718",
+    "completed_at": null
+  }
+]

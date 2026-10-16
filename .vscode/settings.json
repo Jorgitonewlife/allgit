@@ -1,16 +1,49 @@
 {
+  // ===== Python: inteligência + hints inline =====
   "python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python.exe",
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.inlayHints.functionReturnTypes": true,
+  "python.analysis.inlayHints.variableTypes": true,
+  "python.analysis.inlayHints.callArgumentNames": true,
+  "python.testing.pytestEnabled": true,
+  "python.testing.pytestArgs": ["todo-cli/tests", "url-shortener/tests"],
   "[python]": {
     "editor.defaultFormatter": "charliermarsh.ruff",
     "editor.formatOnSave": true,
     "editor.codeActionsOnSave": {
-      "source.organizeImports": "explicit"
+      "source.organizeImports": "explicit",
+      "source.fixAll": "explicit"
     }
   },
+  "ruff.lint.args": ["--select", "E,F,I,B,UP"],
+  // ===== Editor: visual profissional =====
+  "editor.fontSize": 14,
+  "editor.fontLigatures": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "editor.stickyScroll.enabled": true,
+  "editor.inlayHints.enabled": "on",
+  "editor.suggest.preview": true,
+  "editor.minimap.scale": 2,
+  "editor.smoothScrolling": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.linkedEditing": true,
   "editor.trimAutoWhitespace": true,
+  "breadcrumbs.enabled": true,
+  "workbench.tree.indent": 16,
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true,
+  "files.autoSave": "onFocusChange",
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/*.pyc": true,
+    "**/.pytest_cache": true,
+    "**/.mypy_cache": true
+  },
+  // ===== Extensões =====
   "errorLens.enabled": true,
-  "todo-tree.general.tags": ["TODO", "FIXME", "ESTUDAR"],
-  "gitlens.currentLine.enabled": true
+  "todo-tree.general.tags": ["TODO", "FIXME", "ESTUDAR", "FREELA"],
+  "gitlens.currentLine.enabled": true,
+  "gitlens.codeLens.enabled": true
 }

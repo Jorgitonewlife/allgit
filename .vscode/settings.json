@@ -45,5 +45,14 @@
   "errorLens.enabled": true,
   "todo-tree.general.tags": ["TODO", "FIXME", "ESTUDAR", "FREELA"],
   "gitlens.currentLine.enabled": true,
-  "gitlens.codeLens.enabled": true
+  "gitlens.codeLens.enabled": true,
+  // Code Runner: roda no TERMINAL (input() funciona), salva e limpa antes
+  "code-runner.runInTerminal": true,
+  "code-runner.saveFileBeforeRun": true,
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.showExecutionMessage": false,
+  // Live Server: porta fixa, sem popup a cada start
+  "liveServer.settings.port": 5500,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true
 }

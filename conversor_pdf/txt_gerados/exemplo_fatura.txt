@@ -1,0 +1,11 @@
+FATURA EXEMPLO
+Cliente: João Silva
+Serviço: Desenvolvimento de Sistema Web
+Valor: R$ 2.500,00
+Data: 15/10/2026
+Descricao:
+- Analise de requisitos
+- Codificacao do front-end
+- Testes e deploy
+
+
